@@ -12,21 +12,23 @@
     - [API](#api)
     - [网站开发](#网站开发)
         - [主题](#主题)
-        - [前端组件](#前端组件)
+        - [效果复刻](#效果复刻)
         - [字体](#字体)
+        - [前端组件](#前端组件)
     - [集成战略](#集成战略)
     - [生息演算](#生息演算)
-    - [Mod](#mod)
+    - [游戏 Mod](#游戏-mod)
         - [我的世界 Minecraft](#我的世界-minecraft)
         - [杀戮尖塔 Slay the Spire](#杀戮尖塔-slay-the-spire)
     - [杂项](#杂项)
+        - [图像识别](#图像识别)
         - [剧情相关](#剧情相关)
         - [算法分析和求解](#算法分析和求解)
         - [Bot](#bot)
 
 ## 在线网站
 
-收录未开源的工具网站
+收录在线网站，只有本章节列出的是未开源的项目。
 
 - [prts.wiki](prts.wiki)
     - PRTS 维基
@@ -40,8 +42,11 @@
 - [ArknightsStorySite](https://ass.m-j.bond)
     - 明日方舟剧情站
 - [明日方舟寻访记录分析](https://arkgacha.kwer.top)
+    - 明日方舟寻访记录分析
 
 ## 辅助工具
+
+收录各种助手和辅助工具。
 
 - [MaaAssistantArknights 组织](https://github.com/MaaAssistantArknights)
     - [主页](https://maa.plus)
@@ -54,7 +59,7 @@
     - 明日方舟速通 —— 高效的明日方舟全托管 APP
 - [enpitsuLin/rhodes-headquarters](https://github.com/enpitsuLin/rhodes-headquarters)
     - [Chrome Web Store](https://chrome.google.com/webstore/detail/%E7%BD%97%E5%BE%B7%E5%B2%9B%E8%BF%9C%E7%A8%8B%E6%8C%87%E6%8C%A5%E9%83%A8/cbnldploflpmmkmcbhipaoojkdmillkm)
-    - P.R.R.H 罗德岛远程指挥部——一款供各位博士监控罗德岛运行状态的浏览器扩展。工程部品质出品，值得所有博士信赖😎
+    - P.R.R.H 罗德岛远程指挥部——一款供各位博士监控罗德岛运行状态的浏览器扩展。工程部品质出品，值得所有博士信赖
 - [jue-ce-zhe/prts-plus](https://github.com/jue-ce-zhe/prts-plus)
     - An efficient automation tool for precise operation in Arknights
     - 一款明日方舟帧操辅助工具
@@ -64,7 +69,7 @@
 ### 森空岛相关
 
 - [enpitsuLin/skland-daily-attendance](https://github.com/enpitsuLin/skland-daily-attendance)
-    - 基于 Node.js 和 Github Actions 实现的森空岛自动签到
+    - 基于 Node.js 和 GitHub Actions 实现的森空岛自动签到
 - [SamuNatsu/skland-daily-attendance-shell](https://github.com/SamuNatsu/skland-daily-attendance-shell)
     - 纯 Shell 实现的森空岛每日签到，主要逻辑代码移植自 skland-daily-attendance
 - [GuGuMur/nonebot-plugin-skland-arksign](https://github.com/GuGuMur/nonebot-plugin-skland-arksign)
@@ -76,16 +81,20 @@
 
 ### MAA 相关
 
+基于 MAA 实现的脚本和工具。
+
 - [DLmaster361/AUTO_MAA](https://github.com/DLmaster361/AUTO_MAA)
     - 明日方舟 MAA 的插件 | MAA 的多账号管理与自动化工具，定时自动完成代理，轻松完成多账号日常，究极长草方案！
 - [IsEddy/Arknights_account_manager](https://github.com/IsEddy/Arknights_account_manager)
-    - 【多号切换/森空岛签到/自定义日常/自动肉鸽/基于 MAA】基于 MAA 的 pc 端明日方舟多账号管理脚本
+    - 【多号切换/森空岛签到/自定义日常/自动肉鸽/基于 MAA】基于 MAA 的 PC 端明日方舟多账号管理脚本
 - [dmeww/maa-agent](https://github.com/dmeww/maa-agent)
     - 用 TS 实现的 MAA Agent
 - [Andys1114/Annihilation-helper](https://github.com/Andys1114/Annihilation-helper)
     - 明日方舟自动常驻剿灭
 
 ## 游戏资源
+
+游戏解包工具和资源数据整理。
 
 - [ArknightsAssets 组织](https://github.com/ArknightsAssets)
     - Arknights assets
@@ -103,7 +112,8 @@
 - [Aceship/Arknight-Images](https://github.com/Aceship/Arknight-Images)
     - Some arknight image for website
 - [isHarryh/Ark-Models](https://github.com/isHarryh/Ark-Models)
-    - Arknights Spine Models (Excerpt) 明日方舟 Spine 动画小人模型（节选）
+    - Arknights Spine Models (Excerpt)
+    - 明日方舟 Spine 动画小人模型（节选）
 - [astral4/arkdata](https://github.com/astral4/arkdata)
     - arkdata is an application for obtaining Arknights assets
 - [FlandiaYingman/arkwaifu](https://github.com/FlandiaYingman/arkwaifu)
@@ -112,6 +122,8 @@
     - Arkwaifu 提供几乎所有从明日方舟中提取的图片资源
 
 ## 材料和规划
+
+材料刷取、资源规划、角色养成和公开招募等。
 
 - [Enraged-Dun-Cookie-Development-Team 组织](https://github.com/Enraged-Dun-Cookie-Development-Team)
     - [主页](https://www.ceobecanteen.top)
@@ -128,7 +140,8 @@
     - 干员培养表
 - [MusicOnline/AK-Dataknights](https://github.com/MusicOnline/AK-Dataknights)
     - [主页](https://dataknights.pages.dev)
-    - Arknights database for CN, EN, JP & KR servers built with Nuxt;《明日方舟》囯英日韩服数据库网站
+    - Arknights database for CN, EN, JP & KR servers built with Nuxt
+    - 《明日方舟》囯英日韩服数据库网站
 - [Bidgecfah/Rhodes-Island-Bureau-of-Price](https://github.com/Bidgecfah/Rhodes-Island-Bureau-of-Price)
     - 罗德岛物价局
     - 根据自定义价值观基础计算精英材料价值，并参照定价对各种商店的购买性价比进行比较和排序
@@ -164,6 +177,8 @@
 ## 网站开发
 ### 主题
 
+可直接使用的网站或软件的主题。
+
 - [Yue-plus/hexo-theme-arknights](https://github.com/Yue-plus/hexo-theme-arknights)
     - [预览](https://arknights.theme.hexo.yue.zone)
     - 明日方舟罗德岛阵营的 Hexo 主题，支持数学公式、Valine & Gitalk & Waline 评论系统、Mermaid 图表
@@ -174,6 +189,11 @@
     - 明日方舟莱茵生命阵营的 VuePress 主题
 - [Yue-plus/astro-endfield](https://github.com/Yue-plus/astro-endfield)
     - [预览](https://astro.endfield.tech)
+
+### 效果复刻
+
+还原某些视觉场景或效果。
+
 - [lxchapu/arknights](https://github.com/lxchapu/arknights)
     - [预览](https://arknights.lxchapu.com)
     - Arknights 明日方舟（Vue）
@@ -182,8 +202,16 @@
     - 尝试复刻明日方舟官网的粒子动画
 - [hakadao/ArknightsParallaxCarousel](https://github.com/hakadao/ArknightsParallaxCarousel)
     - [预览](https://hakadao.github.io/ArknightsParallaxCarousel)
+    - 明日方舟官網 3D 視差輪播效果實現
+
+### 字体
+
+- [Siphercase/Samigirian](https://github.com/Siphercase/Samigirian)
+    - Samigirian Serif - 襯線薩米—阿戈爾文字
 
 ### 前端组件
+
+可用于视觉设计和开发的组件或设计资源。
 
 - [Yue-plus/arknights_icons](https://github.com/Yue-plus/arknights_icons)
     - Arknights icons
@@ -195,11 +223,6 @@
 - [u-u-z/lungmen-FD-logo](https://github.com/u-u-z/lungmen-FD-logo)
     - [Figma 设计稿](https://www.figma.com/community/file/1236992320035456854)
     - Lungmen Fire Department logo on Shaw's hardhat
-
-### 字体
-
-- [Siphercase/Samigirian](https://github.com/Siphercase/Samigirian)
-    - Samigirian Serif - 襯線薩米—阿戈爾文字
 
 ## 集成战略
 
@@ -248,7 +271,7 @@
 - [LuoTianOrange/SXYS-tools](https://github.com/LuoTianOrange/SXYS-tools)
     - 明日方舟生息演算在线地图
 
-## Mod
+## 游戏 Mod
 
 - [Arkroup/Frostknights](https://github.com/Arkroup/Frostknights)
     - 雪居之地（Wildfrost）同人 mod
@@ -261,7 +284,7 @@
 - [Cherry-xue/Arknights-Susie](https://github.com/Cherry-xue/Arknights-Susie)
     - MC 明日方舟-澄闪
 - [BlockyDeer/EnderContract](https://github.com/BlockyDeer/EnderContract)
-    - 末影契约是明日方舟(Arknights)危机合约玩法在 MC 中的精神移植
+    - 末影契约是明日方舟（Arknights）危机合约玩法在 MC 中的精神移植
 - [PhantomLGZ/OriginiumArts](https://github.com/PhantomLGZ/OriginiumArts)
     - Originium Arts: A minecraft mod for Arknights | 源石技艺：一个明日方舟题材的 MC Mod
 
@@ -270,7 +293,7 @@
 - [KhasAlushird/slay-the-spire-arknights-mod-Shamare](https://github.com/KhasAlushird/slay-the-spire-arknights-mod-Shamare)
     - 杀戮尖塔明日方舟巫恋同人 mod
 - [KhasAlushird/slay-the-spire-arknights-mod-Muelsyse](https://github.com/KhasAlushird/slay-the-spire-arknights-mod-Muelsyse)
-    - 杀戮尖塔的明日方舟缪尔赛思同人 mod
+    - 杀戮尖塔明日方舟缪尔赛思同人 mod
 - [hyperv0id/lingmod](https://github.com/hyperv0id/lingmod)
     - 杀戮尖塔明日方舟令角色 mod
 - [R0Bill/RosMod](https://github.com/R0Bill/RosMod)
@@ -279,16 +302,12 @@
 
 ## 杂项
 
+- [Arknights Tools 组织](https://github.com/arkntools)
+    - [主页](https://arkntools.app)
+    - Arknights Toolbox, all servers are supported. 明日方舟工具箱，全服支持
 - [isHarryh/Ark-Pets](https://github.com/isHarryh/Ark-Pets)
     - [主页](https://arkpets.harryh.cn)
     - Arknights Desktop Pets | 明日方舟桌宠
-- [Arknights Tools 组织](https://github.com/arkntools)
-    - [主页](https://arkntools.app)
-    - 🔨 Arknights Toolbox, all servers are supported. 明日方舟工具箱，全服支持
-- [yuanyan3060/Arknights-Tile-Pos](https://github.com/yuanyan3060/Arknights-Tile-Pos)
-    - 识别明日方舟地图中的格子
-- [triwinds/arknights-ml](https://github.com/triwinds/arknights-ml)
-    - arknights 关卡 ocr & 库存物品识别
 - [martinwang2002/Theresa-wiki](https://github.com/martinwang2002/Theresa-wiki)
     - [主页](https://theresa.wiki)
     - Theresa.wiki
@@ -330,10 +349,17 @@
 - [s-yh-china/ArknightsDataAnalysisV2](https://github.com/s-yh-china/ArknightsDataAnalysisV2)
     - 明日方舟数据统计
     - [后端仓库](https://github.com/s-yh-china/ArknightsDataAnalysisV2)
-- [radscale/ak-recruiter](https://github.com/radscale/ak-recruiter)
-    - An operator recruitment tool with OCR functionality for Arknights/明日方舟/アークナイツ
 - [RF-Tar-Railt/arknights-toolkit](https://github.com/RF-Tar-Railt/arknights-toolkit)
     - 明日方舟（Arknights）相关功能的整合库
+
+### 图像识别
+
+- [yuanyan3060/Arknights-Tile-Pos](https://github.com/yuanyan3060/Arknights-Tile-Pos)
+    - 识别明日方舟地图中的格子
+- [triwinds/arknights-ml](https://github.com/triwinds/arknights-ml)
+    - Arknights 关卡 OCR & 库存物品识别
+- [radscale/ak-recruiter](https://github.com/radscale/ak-recruiter)
+    - An operator recruitment tool with OCR functionality for Arknights/明日方舟/アークナイツ
 - [BiologyHazard/credit-store-recognizer](https://github.com/BiologyHazard/credit-store-recognizer)
     - 识别明日方舟的信用商店
 
@@ -343,7 +369,7 @@
     - [主页](https://lengyanyu258.github.io/ArknightsWordCount)
     - 《明日方舟》字词统计／文本量统计／台词量统计
 - [drunkenQCat/ArkPlotWpf](https://github.com/drunkenQCat/ArkPlotWpf)
-    - 一个基于 .Net 7 的明日方舟剧情文本生成器，可用来生成剧情的 markdown/html 文件
+    - 一个基于 .Net 7 的明日方舟剧情文本生成器，可用来生成剧情的 Markdown/HTML 文件
 - [050644zf/ArknightsStoryTextReader](https://github.com/050644zf/ArknightsStoryTextReader)
     - [主页](https://astr.pages.dev)
     - Arknights Story Text Reader is a website that help you view stories text in mobile game Arknights
@@ -357,7 +383,8 @@
 ### 算法分析和求解
 
 - [OneBST/GGanalysis](https://github.com/OneBST/GGanalysis)
-    - 抽卡游戏概率分析工具包 A simple and efficient computing package for analysis gacha in game
+    - 抽卡游戏概率分析工具包
+    - A simple and efficient computing package for analysis gacha in game
 - [RF-Tar-Railt/nonebot-plugin-arkgacha](https://github.com/RF-Tar-Railt/nonebot-plugin-arkgacha)
     - Plugin for Arknights gacha, support multi platform 明日方舟抽卡模拟器
 - [Konano/snowsant-calculator](https://github.com/Konano/snowsant-calculator)
@@ -374,15 +401,16 @@
 - [AdorableParker/Arknights-Gemstone-engraving-Calculator](https://github.com/AdorableParker/Arknights-Gemstone-engraving-Calculator)
     - 明日方舟 宝石铭刻 局部最优求解器
 - [Flowing-star/Ark_Gemstone_calculator](https://github.com/Flowing-star/Ark_Gemstone_calculator)
-    - A calculator for Gemstone marking.一个为了明日方舟宝石铭刻设计的的计算器
+    - A calculator for Gemstone marking
+    - 一个为了明日方舟宝石铭刻设计的的计算器
 
 ### Bot
 
-- [gxy12345/arknights-plugin](https://github.com/gxy12345/arknights-plugin)
-    - 基于森空岛 API 开发的 Yunzai Bot 明日方舟插件
 - [Amiya-Bot 组织](https://github.com/AmiyaBot)
     - [主页](https://www.amiyabot.com)
     - 基于 AmiyaBot 框架的 QQ 聊天机器人
+- [gxy12345/arknights-plugin](https://github.com/gxy12345/arknights-plugin)
+    - 基于森空岛 API 开发的 Yunzai Bot 明日方舟插件
 - [baiqwerdvd/ArknightsUID](https://github.com/baiqwerdvd/ArknightsUID)
     - 支持 NoneBot2 & HoshinoBot & ZeroBot & YunzaiBot 的明日方舟 Bot 插件
 - [wangyw15/CanrotBot](https://github.com/wangyw15/CanrotBot)

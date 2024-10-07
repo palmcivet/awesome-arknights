@@ -4,7 +4,7 @@
 
 属于明日方舟的 Awesome List，收录已知范围内明日方舟相关的开源项目，欢迎 Star、Issue、PR 和 Fork。
 
-早期有一个项目 [cyf-gh/awesome-Arknights](https://github.com/cyf-gh/awesome-Arknights)，于 2020 年停止维护，时隔 4 年（2024 年）本项目基于最新的 GitHub 仓库，重新整理相关项目。
+早期有一个项目 [cyf-gh/awesome-Arknights](https://github.com/cyf-gh/awesome-Arknights)，于 2020 年停止维护，时隔 4 年（2024 年）本项目基于最新的 GitHub 仓库，重新整理相关项目，并将持续维护。
 
 ## 目录
 
@@ -21,7 +21,7 @@
 
 见 Awesome List [LIST.md](./LIST.md)。
 
-列表内容没有放在 README 中，为了和其他说明内容作区分，并且在阅读页能够在侧边栏展开 GitHub 的 Outline，方便索引。
+> 列表内容没有放在 README 中，为了和其他说明内容作区分，并且在阅读页能够在侧边栏展开 GitHub 的 Outline，方便索引。
 
 ## 项目愿景
 
