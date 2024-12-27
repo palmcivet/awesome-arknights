@@ -43,6 +43,8 @@
     - 明日方舟剧情站
 - [明日方舟寻访记录分析](https://arkgacha.kwer.top)
     - 明日方舟寻访记录分析
+- [明日方舟少人 WIKI](https://wiki.arkrec.com)
+    - 明日方舟少人 WIKI
 
 ## 辅助工具
 
@@ -120,6 +122,9 @@
     - [主页](https://arkwaifu.cc)
     - [前端仓库](https://github.com/FlandiaYingman/arkwaifu-frontend)
     - Arkwaifu 提供几乎所有从明日方舟中提取的图片资源
+- [Halyul/aklive2d](https://github.com/Halyul/aklive2d)
+    - [主页](https://arknights.halyul.dev)
+    - A project that builds showcase webpage for Arknights Live2D-equipped operators. Showcase webpage can be used as a wallpaper.
 
 ## 材料和规划
 
@@ -237,8 +242,6 @@
 - [HomiyaTamamo/baseV2.1](https://github.com/HomiyaTamamo/baseV2.1)
     - [主页](https://istc-frame.github.io/base)
     - 明日方舟集成战略比赛荆楚歌的计分器
-- [IrisHyaline/IrisHyaline.github.io](https://github.com/IrisHyaline/IrisHyaline.github.io)
-    - 蜀道行。明日方舟集成战略计算器
 - [HokagoTeaTime1/samicounter](https://github.com/HokagoTeaTime1/samicounter)
     - 萨米肉鸽仙术杯计算器
 - [Fr33so1/vegetable-cup-calculator](https://github.com/Fr33so1/vegetable-cup-calculator)
@@ -247,9 +250,9 @@
     - T&M 自定义规则水月肉鸽仙术杯得分计算器
 - [GolvenPuppet/ChickenTreeCup](https://github.com/GolvenPuppet/ChickenTreeCup)
     - 明日方舟（Arknights）仙术杯同款计分器，“寄术杯”
-- [SundayChen/Ark-Rogue-Score](https://github.com/SundayChen/Ark-Rogue-Score)
+- [SundayChen/Arknights_Rogue_Score_Calculator_Sami](https://github.com/SundayChen/Arknights_Rogue_Score_Calculator_Sami)
     - An arknights Roguelike score calculator
-    - 明日方舟集成战略“探索者的银凇止境” 比赛 “可汗杯” 的分数计算器
+    - 明日方舟集成战略 “探索者的银凇止境” 比赛 “可汗杯” 的分数计算器
 - [IrisHyaline/ShenJiBei](https://github.com/IrisHyaline/ShenJiBei)
     - [主页](https://yong-heng-bei.vercel.app)
     - 明日方舟萨米肉鸽计算器。——来自 UESTC 神技杯技术组
@@ -257,6 +260,13 @@
     - 第二届妮可“眉笔杯”水月肉鸽赛 分数计算器
 - [ElluIFX/ArkRogueTerminal](https://github.com/ElluIFX/ArkRogueTerminal)
     - 明日方舟肉鸽比赛通用计分终端，带有 OBS 信息同步功能
+- [RoLingG/Arknight_laocan2.0](https://github.com/RoLingG/Arknight_laocan2.0)
+    - [主页](https://laocan.rolingg.top)
+    - 明日方舟老缠杯 2.0 随机干员挑选网页
+- [SundayChen/Arknights_Sarkaz_Rogue_Damage_Calculator](https://github.com/SundayChen/Arknights_Sarkaz_Rogue_Damage_Calculator)
+    - 萨卡兹肉鸽伤害计算器
+- [SundayChen/Arknights_Rogue_Score_Calculator_Sarkaz](https://github.com/SundayChen/Arknights_Rogue_Score_Calculator_Sarkaz)
+    - 明日方舟集成战略主题 萨卡兹的无终奇语 比赛 “可汗杯” 的主题页
 
 ## 生息演算
 
