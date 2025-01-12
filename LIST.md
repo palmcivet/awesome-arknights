@@ -288,6 +288,13 @@
     - A mod for the videogame Wildfrost adding characters and more from the mobile game Arknights
 - [TohsakaKuro/DST-Arknights-Typhon](https://github.com/TohsakaKuro/DST-Arknights-Typhon)
     - 饥荒联机版 明日方舟 提丰
+- [cueVs/ArknightsMod](https://github.com/cueVs/ArknightsMod)
+    - 泰拉瑞亚 MOD
+    - [Terraria 论坛主页](https://forums.terraria.org/index.php?threads/arknights-mod.117651/)
+- [Alicket/Stellaris_Arknights_Near_Future_mod](https://github.com/Alicket/Stellaris_Arknights_Near_Future_mod)
+    - 为来自 Paradox Interactive 的游戏 Stellaris 开发的 MOD
+    - A repository for Arknights:Near Future and its submod Arknights:Distant Future
+    - [Steam 创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=2047260446)
 
 ### 我的世界 Minecraft
 
@@ -297,6 +304,9 @@
     - 末影契约是明日方舟（Arknights）危机合约玩法在 MC 中的精神移植
 - [PhantomLGZ/OriginiumArts](https://github.com/PhantomLGZ/OriginiumArts)
     - Originium Arts: A minecraft mod for Arknights | 源石技艺：一个明日方舟题材的 MC Mod
+- [BeiShanair/ArknightsFurniture](https://github.com/BeiShanair/ArknightsFurniture)
+    - 明日方舟家具模组
+    - [Bilibili 主页](https://space.bilibili.com/489671468)
 
 ### 杀戮尖塔 Slay the Spire
 
