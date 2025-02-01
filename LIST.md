@@ -16,6 +16,8 @@
         - [字体](#字体)
         - [前端组件](#前端组件)
     - [集成战略](#集成战略)
+        - [工具资料](#工具资料)
+        - [赛事计分器](#赛事计分器)
     - [生息演算](#生息演算)
     - [游戏 Mod](#游戏-mod)
         - [我的世界 Minecraft](#我的世界-minecraft)
@@ -230,6 +232,7 @@
     - Lungmen Fire Department logo on Shaw's hardhat
 
 ## 集成战略
+### 工具资料
 
 - [tanch-p/tomimi-chan](https://github.com/tanch-p/tomimi-chan)
     - [主页](https://tomimi.dev)
@@ -239,6 +242,18 @@
     - [肉鸽开局生成器](https://yubo.run/arknights/kaiju)
     - [随机肉鸽许愿机](https://g.yubo.run/ganbouki)
     - 明日方舟集成战略开局生成器 Arknights Integrated Strategies Opening Generator（以及其他玩具）
+- [RoLingG/Arknight_laocan2.0](https://github.com/RoLingG/Arknight_laocan2.0)
+    - [主页](https://laocan.rolingg.top)
+    - 明日方舟老缠杯 2.0 随机干员挑选网页
+- [SundayChen/Arknights_Sarkaz_Rogue_Damage_Calculator](https://github.com/SundayChen/Arknights_Sarkaz_Rogue_Damage_Calculator)
+    - 萨卡兹肉鸽伤害计算器
+- [影语集](https://arkrog.com/)
+    - 黑蓑影卫攻略组建立的，关于集成战略模式相关记录、攻略、工具、社区延伸的整合功能与信息平台
+    - [前端仓库](https://github.com/philimao/arkrog_frontend)
+    - [后端仓库](https://github.com/philimao/arkrog_backend)
+
+### 赛事计分器
+
 - [HomiyaTamamo/baseV2.1](https://github.com/HomiyaTamamo/baseV2.1)
     - [主页](https://istc-frame.github.io/base)
     - 明日方舟集成战略比赛荆楚歌的计分器
@@ -260,13 +275,13 @@
     - 第二届妮可“眉笔杯”水月肉鸽赛 分数计算器
 - [ElluIFX/ArkRogueTerminal](https://github.com/ElluIFX/ArkRogueTerminal)
     - 明日方舟肉鸽比赛通用计分终端，带有 OBS 信息同步功能
-- [RoLingG/Arknight_laocan2.0](https://github.com/RoLingG/Arknight_laocan2.0)
-    - [主页](https://laocan.rolingg.top)
-    - 明日方舟老缠杯 2.0 随机干员挑选网页
-- [SundayChen/Arknights_Sarkaz_Rogue_Damage_Calculator](https://github.com/SundayChen/Arknights_Sarkaz_Rogue_Damage_Calculator)
-    - 萨卡兹肉鸽伤害计算器
 - [SundayChen/Arknights_Rogue_Score_Calculator_Sarkaz](https://github.com/SundayChen/Arknights_Rogue_Score_Calculator_Sarkaz)
     - 明日方舟集成战略主题 萨卡兹的无终奇语 比赛 “可汗杯” 的主题页
+- [KAGA11/TheurgyCup](https://github.com/KAGA11/TheurgyCup)
+    - [主页](https://theurgycup.pages.dev)
+    - 仙术杯 #6 计算器
+- [dillzhu/arkRoguelikeScoreBoard](https://github.com/dillzhu/arkRoguelikeScoreBoard)
+    - 明日方舟探索者的银凇止境比赛计分板
 
 ## 生息演算
 
