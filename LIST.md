@@ -230,6 +230,9 @@
 - [u-u-z/lungmen-FD-logo](https://github.com/u-u-z/lungmen-FD-logo)
     - [Figma 设计稿](https://www.figma.com/community/file/1236992320035456854)
     - Lungmen Fire Department logo on Shaw's hardhat
+- [RhineAI-Lab/rhine-var](https://github.com/RhineAI-Lab/rhine-var)
+    - [主页](https://rv.rhineai.com)
+    - The world's most intuitive and reliable strongly-typed collaborative library
 
 ## 集成战略
 ### 工具资料
@@ -457,3 +460,7 @@
     - An Arknights Discord bot that provides information on operators, enemies, stages, and more!
 - [MistEO/Pallas-Bot](https://github.com/MistEO/Pallas-Bot)
     - 《明日方舟》帕拉斯 Bot
+- [MountainDash/nonebot-bison](https://github.com/MountainDash/nonebot-bison)
+    - [主页](https://nonebot-bison.netlify.app)
+    - A nonebot2 plugin to repost social media posts to QQ group
+    - 一款自动爬取各种站点，社交平台更新动态，并将信息推送到 QQ 的机器人
