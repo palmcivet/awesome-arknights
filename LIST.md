@@ -75,9 +75,7 @@
 - [enpitsuLin/skland-daily-attendance](https://github.com/enpitsuLin/skland-daily-attendance)
     - 基于 Node.js 和 GitHub Actions 实现的森空岛自动签到
 - [SamuNatsu/skland-daily-attendance-shell](https://github.com/SamuNatsu/skland-daily-attendance-shell)
-    - 纯 Shell 实现的森空岛每日签到，主要逻辑代码移植自 skland-daily-attendance
-- [GuGuMur/nonebot-plugin-skland-arksign](https://github.com/GuGuMur/nonebot-plugin-skland-arksign)
-    - 用于每日定时签到森空岛明日方舟的 Nonebot 插件
+    - 纯 Shell 实现的森空岛每日签到，主要逻辑代码移植自 [skland-daily-attendance](https://github.com/enpitsuLin/skland-daily-attendance)
 - [Y5neKO/ArknightsPriestessProject](https://github.com/Y5neKO/ArknightsPriestessProject)
     - 明日方舟开源 Java 自动工具 AKP - ArknightsPriestess
 - [HaneRo/skland_arknights_checkin](https://github.com/HaneRo/skland_arknights_checkin)
@@ -464,3 +462,7 @@
     - [主页](https://nonebot-bison.netlify.app)
     - A nonebot2 plugin to repost social media posts to QQ group
     - 一款自动爬取各种站点，社交平台更新动态，并将信息推送到 QQ 的机器人
+- [GuGuMur/nonebot-plugin-skland-arksign](https://github.com/GuGuMur/nonebot-plugin-skland-arksign)
+    - 用于每日定时签到森空岛明日方舟的 Nonebot 插件
+- [FrostN0v0/nonebot-plugin-skland](https://github.com/FrostN0v0/nonebot-plugin-skland)
+    - 通过森空岛查询游戏数据
