@@ -69,6 +69,8 @@
     - 一款明日方舟帧操辅助工具
 - [FlandiaYingman/auto-ark](https://github.com/FlandiaYingman/auto-ark)
     - 自动方舟是一款仅为学习交流使用的的明日方舟辅助软件，致力于全自动化
+- [Ancientea/CannotMax](https://github.com/Ancientea/CannotMax)
+    - 一个基于深度学习的明日方舟斗蛐蛐计算工具，用于自动识别游戏画面中的单位并预测战斗结果。
 
 ### 森空岛相关
 
