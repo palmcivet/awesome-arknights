@@ -8,6 +8,7 @@
         - [森空岛相关](#森空岛相关)
         - [MAA 相关](#maa-相关)
     - [游戏资源](#游戏资源)
+    - [数据统计](#数据统计)
     - [材料和规划](#材料和规划)
     - [API](#api)
     - [网站开发](#网站开发)
@@ -23,6 +24,8 @@
         - [我的世界 Minecraft](#我的世界-minecraft)
         - [杀戮尖塔 Slay the Spire](#杀戮尖塔-slay-the-spire)
     - [杂项](#杂项)
+        - [社区衍生](#社区衍生)
+        - [活动日程](#活动日程)
         - [图像识别](#图像识别)
         - [剧情相关](#剧情相关)
         - [算法分析和求解](#算法分析和求解)
@@ -30,15 +33,20 @@
 
 ## 在线网站
 
-收录在线网站，只有本章节列出的是未开源的项目。
+收录在线网站，只有本章节列出的部分是未开源的项目。
 
-- [prts.wiki](prts.wiki)
+- [SanityGoneAK/sanity-gone](https://github.com/SanityGoneAK/sanity-gone)
+    - [主页](https://sanitygone.help)
+    - An Arknights database
+- [Houdou/arkgraph](https://github.com/Houdou/arkgraph)
+    - 明日方舟地图、关系网、干员培养表等数据
+    - [主页](https://ark-nights.com)
+    - [prts.map](https://map.ark-nights.com)
+- [prts.wiki](https://prts.wiki)
     - PRTS 维基
 - [DPS 计算器](https://viktorlab.cn/akdata/dps)
     - DPS 计算器
     - 已归档
-- [prts.map](https://map.ark-nights.com)
-    - 明日方舟地图、关系网
 - [ArkStory](https://arkstory.cc/story)
     - 《明日方舟》工具资料站
 - [ArknightsStorySite](https://ass.m-j.bond)
@@ -70,7 +78,7 @@
 - [FlandiaYingman/auto-ark](https://github.com/FlandiaYingman/auto-ark)
     - 自动方舟是一款仅为学习交流使用的的明日方舟辅助软件，致力于全自动化
 - [Ancientea/CannotMax](https://github.com/Ancientea/CannotMax)
-    - 一个基于深度学习的明日方舟斗蛐蛐计算工具，用于自动识别游戏画面中的单位并预测战斗结果。
+    - 一个基于深度学习的明日方舟斗蛐蛐计算工具，用于自动识别游戏画面中的单位并预测战斗结果
 
 ### 森空岛相关
 
@@ -124,9 +132,29 @@
     - [主页](https://arkwaifu.cc)
     - [前端仓库](https://github.com/FlandiaYingman/arkwaifu-frontend)
     - Arkwaifu 提供几乎所有从明日方舟中提取的图片资源
-- [Halyul/aklive2d](https://github.com/Halyul/aklive2d)
-    - [主页](https://arknights.halyul.dev)
-    - A project that builds showcase webpage for Arknights Live2D-equipped operators. Showcase webpage can be used as a wallpaper.
+
+## 数据统计
+
+- [penguin-statistics 组织](https://github.com/penguin-statistics)
+    - [主页](https://penguin-stats.cn)
+    - 企鹅物流
+    - Penguin Statistics is a not-for-profit organization, collects item drop data for mobile game Arknights and generates statistical results.
+- [Arknights Tools 组织](https://github.com/arkntools)
+    - [主页](https://arkntools.app)
+    - Arknights Toolbox, all servers are supported. 明日方舟工具箱，全服支持
+- [MusicOnline/AK-Dataknights](https://github.com/MusicOnline/AK-Dataknights)
+    - [主页](https://dataknights.pages.dev)
+    - Arknights database for CN, EN, JP & KR servers built with Nuxt
+    - 《明日方舟》囯英日韩服数据库网站
+- [Bidgecfah/Rhodes-Island-Bureau-of-Price](https://github.com/Bidgecfah/Rhodes-Island-Bureau-of-Price)
+    - 罗德岛物价局
+    - 根据自定义价值观基础计算精英材料价值，并参照定价对各种商店的购买性价比进行比较和排序
+- [MasterHiei/arknights_analysis](https://github.com/MasterHiei/arknights_analysis)
+    - An application can help you collect game data more easily via offcial api of HyperGryph
+    - 提供方便快捷安全的游戏数据统计和查询服务
+- [s-yh-china/ArknightsDataAnalysisV2](https://github.com/s-yh-china/ArknightsDataAnalysisV2)
+    - 明日方舟数据统计
+    - [后端仓库](https://github.com/s-yh-china/ArknightsDataAnalysisV2)
 
 ## 材料和规划
 
@@ -136,37 +164,24 @@
     - [主页](https://www.ceobecanteen.top)
     - 小刻食堂
     - 赋能小刻，万物皆为饼
-- [penguin-statistics 组织](https://github.com/penguin-statistics)
-    - [主页](https://penguin-stats.cn)
-    - 企鹅物流
-    - Penguin Statistics is a not-for-profit organization, collects item drop data for mobile game Arknights and generates statistical results.
 - [Arknights-yituliu 组织](https://github.com/Arknights-yituliu)
     - 明日方舟材料价值计算、性价比计算，以及攒抽计算等其它小工具
 - [Houdou/arkgraph](https://github.com/Houdou/arkgraph)
     - ARKNIGHTS Material Calculator
     - 干员培养表
-- [MusicOnline/AK-Dataknights](https://github.com/MusicOnline/AK-Dataknights)
-    - [主页](https://dataknights.pages.dev)
-    - Arknights database for CN, EN, JP & KR servers built with Nuxt
-    - 《明日方舟》囯英日韩服数据库网站
-- [Bidgecfah/Rhodes-Island-Bureau-of-Price](https://github.com/Bidgecfah/Rhodes-Island-Bureau-of-Price)
-    - 罗德岛物价局
-    - 根据自定义价值观基础计算精英材料价值，并参照定价对各种商店的购买性价比进行比较和排序
 - [Diceycle/Arknights-Material-Planner](https://github.com/Diceycle/Arknights-Material-Planner)
     - Keep track of your planned upgrades, in relation to what is in your depot, with some hefty quality of life
-- [MasterHiei/arknights_analysis](https://github.com/MasterHiei/arknights_analysis)
-    - An application can help you collect game data more easily via offcial api of HyperGryph
-    - 提供方便快捷安全的游戏数据统计和查询服务
-- [Sky1wu/Arknights-Recruit-Tool](https://github.com/Sky1wu/Arknights-Recruit-Tool)
-    - 明日方舟公开招募计算器 for iOS（快捷指令）
 - [GoodEffort/Arknights-Planner](https://github.com/GoodEffort/Arknights-Planner)
     - [主页](https://goodeffort.github.io/Arknights-Planner)
     - A basic planner for leveling arknights operators
+- [tsctsc6/Arkgihts_Operators_Skill_Level10_GUI](https://github.com/tsctsc6/Arkgihts_Operators_Skill_Level10_GUI)
+    - 计算明日方舟干员专三材料
+- [Sky1wu/Arknights-Recruit-Tool](https://github.com/Sky1wu/Arknights-Recruit-Tool)
+    - 明日方舟公开招募计算器 for iOS（快捷指令）
 - [YeEeck/ark-hr-tool](https://github.com/YeEeck/ark-hr-tool)
     - [主页](https://ark-hr-tool.vercel.app)
     - 一个更好的明日方舟公开招募计算器 | An better recruit calculator for Arknights
-- [tsctsc6/Arkgihts_Operators_Skill_Level10_GUI](https://github.com/tsctsc6/Arkgihts_Operators_Skill_Level10_GUI)
-    - 计算明日方舟干员专三材料
+    - 长期未更新
 
 ## API
 
@@ -180,6 +195,10 @@
 - [ProbiusOfficial/Skland_API](https://github.com/ProbiusOfficial/Skland_API)
     - 森空岛 API 接口合集以及文档示例
     - 已归档
+- [555me/hycdn](https://github.com/555me/hycdn)
+    - 鹰角网络旗下游戏更新数据包，所有文档获取来源均为各次更新时生成的文件
+- [Meph1sto666/monster-siren-api](https://github.com/Meph1sto666/monster-siren-api)
+    - API for Monster Siren Records
 
 ## 网站开发
 ### 主题
@@ -195,7 +214,8 @@
 - [Yue-plus/vuepress-theme-rhinelab](https://github.com/Yue-plus/vuepress-theme-rhinelab)
     - 明日方舟莱茵生命阵营的 VuePress 主题
 - [Yue-plus/astro-endfield](https://github.com/Yue-plus/astro-endfield)
-    - [预览](https://astro.endfield.tech)
+    - [预览](http://astro.endfield.icu)
+    - 明日方舟：终末地风格的 Astro 主题
 
 ### 效果复刻
 
@@ -210,6 +230,9 @@
 - [hakadao/ArknightsParallaxCarousel](https://github.com/hakadao/ArknightsParallaxCarousel)
     - [预览](https://hakadao.github.io/ArknightsParallaxCarousel)
     - 明日方舟官網 3D 視差輪播效果實現
+- [Cromemadnd/ArknightsUI-React-Template](https://github.com/Cromemadnd/ArknightsUI-React-Template)
+    - A react template based on the UI style of Arknights
+    - 一个基于《明日方舟》游戏 UI 风格的网页模板
 
 ### 字体
 
@@ -233,6 +256,9 @@
 - [RhineAI-Lab/rhine-var](https://github.com/RhineAI-Lab/rhine-var)
     - [主页](https://rv.rhineai.com)
     - The world's most intuitive and reliable strongly-typed collaborative library
+- [Yue-plus/endfield_icons](https://github.com/Yue-plus/endfield_icons)
+    - [主页](http://icons.endfield.icu)
+    - 明日方舟：终末地图标
 
 ## 集成战略
 ### 工具资料
@@ -250,7 +276,7 @@
     - 明日方舟老缠杯 2.0 随机干员挑选网页
 - [SundayChen/Arknights_Sarkaz_Rogue_Damage_Calculator](https://github.com/SundayChen/Arknights_Sarkaz_Rogue_Damage_Calculator)
     - 萨卡兹肉鸽伤害计算器
-- [影语集](https://arkrog.com/)
+- [影语集](https://arkrog.com)
     - 黑蓑影卫攻略组建立的，关于集成战略模式相关记录、攻略、工具、社区延伸的整合功能与信息平台
     - [前端仓库](https://github.com/philimao/arkrog_frontend)
     - [后端仓库](https://github.com/philimao/arkrog_backend)
@@ -308,7 +334,7 @@
     - 饥荒联机版 明日方舟 提丰
 - [cueVs/ArknightsMod](https://github.com/cueVs/ArknightsMod)
     - 泰拉瑞亚 MOD
-    - [Terraria 论坛主页](https://forums.terraria.org/index.php?threads/arknights-mod.117651/)
+    - [Terraria 论坛主页](https://forums.terraria.org/index.php?threads/arknights-mod.117651)
 - [Alicket/Stellaris_Arknights_Near_Future_mod](https://github.com/Alicket/Stellaris_Arknights_Near_Future_mod)
     - 为来自 Paradox Interactive 的游戏 Stellaris 开发的 MOD
     - A repository for Arknights:Near Future and its submod Arknights:Distant Future
@@ -340,9 +366,6 @@
 
 ## 杂项
 
-- [Arknights Tools 组织](https://github.com/arkntools)
-    - [主页](https://arkntools.app)
-    - Arknights Toolbox, all servers are supported. 明日方舟工具箱，全服支持
 - [isHarryh/Ark-Pets](https://github.com/isHarryh/Ark-Pets)
     - [主页](https://arkpets.harryh.cn)
     - Arknights Desktop Pets | 明日方舟桌宠
@@ -356,39 +379,66 @@
     - Sora 唱片是一个基于 UWP 的塞壬唱片第三方客户端
 - [nuthx/siren-downloader](https://github.com/nuthx/siren-downloader)
     - 明日方舟塞壬唱片专辑下载器
-- [Astrian/ArkBulletinGPT](https://github.com/Astrian/ArkBulletinGPT)
-    - 利用 GPT 总结《明日方舟》国服相关公告、读取《明日方舟》国服活动日程表
 - [orz-tools/cpp](https://github.com/orz-tools/cpp)
     - [主页](https://cpp.orz.tools)
     - Yet Another Toolbox for Arknights. Now with more games!
 - [RSFNpresent/SimulatedConfrontation](https://github.com/RSFNpresent/SimulatedConfrontation)
     - 明日方舟自制图地图包的 unity 渲染工程（无代码）
-- [Eletary/goo](https://github.com/Eletary/goo)
-    - Generator Of Operators in arknights
-    - 随机干员生成器
-- [sevmeowple/Arkrun](https://github.com/sevmeowple/Arkrun)
-    - [主页](https://sevmeowple.github.io/Arkrun)
-    - 随机成为 Arknights 中的一员吧
 - [zzkluck/ArknightsCharVis](https://github.com/zzkluck/ArknightsCharVis)
     - 明日方舟干员数据可视化
 - [Khoi-Nguyen-Xuan/Arknight-analysis-with-R](https://github.com/Khoi-Nguyen-Xuan/Arknight-analysis-with-R)
     - An R program for analyzing a dataset of the operators in Arknights Mobile Game
 - [Arkfans/ArknightsName](https://github.com/Arkfans/ArknightsName)
     - 《明日方舟》名称
-- [lie5860/ak-guess](https://github.com/lie5860/ak-guess)
-    - [主页](http://akg.saki.cc)
-    - 一个明日方舟的猜谜小游戏
 - [walker-1024/furniture_filter](https://github.com/walker-1024/furniture_filter)
     - 用于检索出明日方舟的资源文件中关于给定主题的家具的相关文件
 - [shedding-ash/Kal-tsit-LLM](https://github.com/shedding-ash/Kal-tsit-LLM)
     - Kal'tsit LLM 是一款模仿《明日方舟》中角色凯尔希的语气和风格的聊天机器人，其基于 internLM2 7B 进行了精细的指令微调，能够以凯尔希的口吻与用户进行互动
 - [longkong39/longkong39-TaiLa_KnowledgeQuizSystem](https://github.com/longkong39/longkong39-TaiLa_KnowledgeQuizSystem)
     - 本项目主要内容为使用自制数据集微调后的模型通过知识库检索进行游戏《明日方舟》内容的知识检索问答系统
-- [s-yh-china/ArknightsDataAnalysisV2](https://github.com/s-yh-china/ArknightsDataAnalysisV2)
-    - 明日方舟数据统计
-    - [后端仓库](https://github.com/s-yh-china/ArknightsDataAnalysisV2)
 - [RF-Tar-Railt/arknights-toolkit](https://github.com/RF-Tar-Railt/arknights-toolkit)
     - 明日方舟（Arknights）相关功能的整合库
+- [neeia/ak-roster](https://github.com/neeia/ak-roster)
+    - [主页](https://krooster.com)
+    - Collection & account tracker for Arknights
+- [Halyul/aklive2d](https://github.com/Halyul/aklive2d)
+    - [主页](https://arknights.halyul.dev)
+    - A project that builds showcase webpage for Arknights Live2D-equipped operators. Showcase webpage can be used as a wallpaper
+- [SHUAXINDIARY/ArknightsLive2d-Web](https://github.com/SHUAXINDIARY/ArknightsLive2d-Web)
+    - [主页](https://arknightslive2d.shuaxinjs.cn)
+    - 明日方舟 Live2D 角色展示网站
+- [SomeUtils/ArkReader-4W](https://github.com/SomeUtils/ArkReader-4W)
+    - 专为智能手表设计的轻量级、高效且低功耗的明日方舟阅读器
+    - Lightweight, fast, and power-efficient Arknights story reader for your watch
+
+### 社区衍生
+
+- [Eletary/goo](https://github.com/Eletary/goo)
+    - Generator Of Operators in arknights
+    - 随机干员生成器
+- [sevmeowple/Arkrun](https://github.com/sevmeowple/Arkrun)
+    - [主页](https://sevmeowple.github.io/Arkrun)
+    - 随机成为 Arknights 中的一员吧
+- [lie5860/ak-guess](https://github.com/lie5860/ak-guess)
+    - [主页](http://akg.saki.cc)
+    - 一个明日方舟的猜谜小游戏
+- [SHUAXINDIARY/Arknights](https://github.com/SHUAXINDIARY/Arknights)
+    - [主页](https://arknights.shuaxinjs.cn)
+    - Arknights 生涯生成器
+- [cworld1/ark-avatar](https://github.com/cworld1/ark-avatar)
+    - [主页](https://ark-avatar.netlify.app)
+    - Generate Arknights style avatar online
+- [ArknightsVote/ArknightsVote](https://github.com/ArknightsVote/ArknightsVote)
+    - [主页](https://vote.ltsc.vip)
+    - 明日方舟六星干员强度投票箱
+
+### 活动日程
+
+- [Astrian/ArkBulletinGPT](https://github.com/Astrian/ArkBulletinGPT)
+    - 利用 GPT 总结《明日方舟》国服相关公告、读取《明日方舟》国服活动日程表
+- [ArknightsCalendar/arknightscalendar.github.io](https://github.com/ArknightsCalendar/arknightscalendar.github.io)
+    - [主页](https://arknightscalendar.github.io)
+    - Event schedules of Arknights
 
 ### 图像识别
 
@@ -468,3 +518,6 @@
     - 用于每日定时签到森空岛明日方舟的 Nonebot 插件
 - [FrostN0v0/nonebot-plugin-skland](https://github.com/FrostN0v0/nonebot-plugin-skland)
     - 通过森空岛查询游戏数据
+- [lonelyion/koishi-plugin-mizuki-bot](https://github.com/lonelyion/koishi-plugin-mizuki-bot)
+    - 明日方舟多功能 BOT
+    - Arknights Mizuki bot, Koishi plugin
