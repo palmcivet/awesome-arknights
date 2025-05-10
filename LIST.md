@@ -82,6 +82,9 @@
 - [xinhai-ai/arknightall](https://github.com/xinhai-ai/arknightall)
     - 明日方舟斗蛐蛐错题册 Arknights Combat Analysis & Mistake Book
     - 一个基于 Python 和 PyQt6 的桌面应用程序，旨在帮助《明日方舟》博士分析“斗蛐蛐”或其他需要快速识别敌方单位并评估对抗情况的场景
+- [CXUtk/CannotSimulator](https://github.com/CXUtk/CannotSimulator)
+    - 明日方舟斗蛐蛐模拟器
+    - 这是一款基于明日方舟角色设定的 AI 自动战斗模拟器，还原干员技能特性与战场策略对抗，并且可以以极快速度获得战斗结果！
 
 ### 森空岛相关
 
@@ -324,7 +327,7 @@
     - Arknight reclamation algorithm web map. 明日方舟 - 生息演算在线工具
 - [U5376/Arknights-Taleswithinthesand-Full-Stage-Preview](https://github.com/U5376/Arknights-Taleswithinthesand-Full-Stage-Preview)
     - [主页](https://u5376.github.io/Arknights-Taleswithinthesand-Full-Stage-Preview)
-    - 明日方舟 生息演算#2「沙洲遗闻」-全关卡预览
+    - 明日方舟 生息演算#2「沙洲遗闻」- 全关卡预览
 - [kiaren1/Arknights-MapSearch](https://github.com/kiaren1/Arknights-MapSearch)
     - 明日方舟生息演算地图查询
 - [LuoTianOrange/SXYS-tools](https://github.com/LuoTianOrange/SXYS-tools)
