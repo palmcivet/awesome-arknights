@@ -79,6 +79,9 @@
     - 自动方舟是一款仅为学习交流使用的的明日方舟辅助软件，致力于全自动化
 - [Ancientea/CannotMax](https://github.com/Ancientea/CannotMax)
     - 一个基于深度学习的明日方舟斗蛐蛐计算工具，用于自动识别游戏画面中的单位并预测战斗结果
+- [xinhai-ai/arknightall](https://github.com/xinhai-ai/arknightall)
+    - 明日方舟斗蛐蛐错题册 Arknights Combat Analysis & Mistake Book
+    - 一个基于 Python 和 PyQt6 的桌面应用程序，旨在帮助《明日方舟》博士分析“斗蛐蛐”或其他需要快速识别敌方单位并评估对抗情况的场景
 
 ### 森空岛相关
 
@@ -238,6 +241,8 @@
 
 - [Siphercase/Samigirian](https://github.com/Siphercase/Samigirian)
     - Samigirian Serif - 襯線薩米—阿戈爾文字
+- [lhclbt/Endfield_Font](https://github.com/lhclbt/Endfield_Font)
+    - 基于鹰角网络在游戏《明日方舟》和《明日方舟：终末地》及其宣传材料中出现的原创文字，经过推导破译后整理得到的字体设计
 
 ### 前端组件
 
