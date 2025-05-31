@@ -288,6 +288,8 @@
     - 黑蓑影卫攻略组建立的，关于集成战略模式相关记录、攻略、工具、社区延伸的整合功能与信息平台
     - [前端仓库](https://github.com/philimao/arkrog_frontend)
     - [后端仓库](https://github.com/philimao/arkrog_backend)
+- [Requalvia/arknights_roguelike_teamplay_assistant](https://github.com/Requalvia/arknights_roguelike_teamplay_assistant)
+    - 你团队吗？仙术杯辅助工具
 
 ### 赛事计分器
 
@@ -475,6 +477,8 @@
     - 仿明日方舟工业风音乐播放器，基于 Hydrogen-Music 修改
 - [HeliumOctahelide/ArkAVG](https://github.com/HeliumOctahelide/ArkAVG)
     - 《明日方舟》剧情模拟
+- [littlepangding/arknights_lore_wiki](https://github.com/littlepangding/arknights_lore_wiki)
+    - 利用 LLM 总结明日方舟剧情 wiki
 
 ### 算法分析和求解
 
