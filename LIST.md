@@ -85,6 +85,9 @@
 - [CXUtk/CannotSimulator](https://github.com/CXUtk/CannotSimulator)
     - 明日方舟斗蛐蛐模拟器
     - 这是一款基于明日方舟角色设定的 AI 自动战斗模拟器，还原干员技能特性与战场策略对抗，并且可以以极快速度获得战斗结果！
+- [ZeroAd-06/ArknightsCostBarRuler](https://github.com/ZeroAd-06/ArknightsCostBarRuler)
+    - 明日方舟费用条尺子
+    - 一个为《明日方舟》设计的悬浮窗工具，基于费用条变化测量当前关卡内的帧数，帮助玩家复刻极限操作。
 
 ### 森空岛相关
 
