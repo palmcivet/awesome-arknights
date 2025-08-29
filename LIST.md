@@ -423,6 +423,8 @@
 - [SomeUtils/ArkReader-4W](https://github.com/SomeUtils/ArkReader-4W)
     - 专为智能手表设计的轻量级、高效且低功耗的明日方舟阅读器
     - Lightweight, fast, and power-efficient Arknights story reader for your watch
+- [MomokaMusic](https://codeberg.org/heipiao233/MomokaMusic)
+    - 一个塞壬唱片第三方安卓客户端，基于 Jetpack Compose，使用 Material 3。
 
 ### 社区衍生
 
