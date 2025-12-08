@@ -112,6 +112,8 @@
     - 用 TS 实现的 MAA Agent
 - [Andys1114/Annihilation-helper](https://github.com/Andys1114/Annihilation-helper)
     - 明日方舟自动常驻剿灭
+- [HX3N/PlayBridge](https://github.com/HX3N/PlayBridge)
+    - Simple ADB emulator for Google Play Games, especially for Arknights & MAA
 
 ## 游戏资源
 
@@ -191,6 +193,9 @@
     - [主页](https://ark-hr-tool.vercel.app)
     - 一个更好的明日方舟公开招募计算器 | An better recruit calculator for Arknights
     - 长期未更新
+- [imivi/arknights-pulls-calculator](https://github.com/imivi/arknights-pulls-calculator)
+    - [主页](https://imivi.github.io/arknights-pulls-calculator/)
+    - Online tool for Arknights players to calculate future resources and available pulls
 
 ## API
 
@@ -293,6 +298,9 @@
     - [后端仓库](https://github.com/philimao/arkrog_backend)
 - [Requalvia/arknights_roguelike_teamplay_assistant](https://github.com/Requalvia/arknights_roguelike_teamplay_assistant)
     - 你团队吗？仙术杯辅助工具
+- [is-central/is-central.github.io](https://github.com/is-central/is-central.github.io)
+    - [主页](https://is-central.github.io/)
+    - A compilation of guides and tips for Intergrated Strategies, a game mode of popular mobile game Arknights
 
 ### 赛事计分器
 
