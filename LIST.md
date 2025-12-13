@@ -196,6 +196,9 @@
 - [imivi/arknights-pulls-calculator](https://github.com/imivi/arknights-pulls-calculator)
     - [主页](https://imivi.github.io/arknights-pulls-calculator/)
     - Online tool for Arknights players to calculate future resources and available pulls
+- [darkwebdev/ak-events](https://github.com/darkwebdev/ak-events)
+    - [主页](https://darkwebdev.github.io/ak-events/)
+    - Arknights Pull Prophecy
 
 ## API
 
@@ -279,7 +282,7 @@
 ## 集成战略
 ### 工具资料
 
-- [tanch-p/tomimi-chan](https://github.com/tanch-p/tomimi-chan)
+- [tanch-p/tomimi-dev](https://github.com/tanch-p/tomimi-dev)
     - [主页](https://tomimi.dev)
     - Arknights Roguelike Helper
     - 在集成战略中更方便看加了各种 buff 的敌人面板
@@ -433,6 +436,19 @@
     - Lightweight, fast, and power-efficient Arknights story reader for your watch
 - [MomokaMusic](https://codeberg.org/heipiao233/MomokaMusic)
     - 一个塞壬唱片第三方安卓客户端，基于 Jetpack Compose，使用 Material 3。
+- [sharo-jef/arknights-ost-rss](https://github.com/sharo-jef/arknights-ost-rss)
+    - [主页](https://sharo-jef.github.io/arknights-ost-rss/)
+    - 塞壬唱片 OST RSS 订阅源
+- [SeraphimeZelel/rion-ricing](https://github.com/SeraphimeZelel/rion-ricing)
+    - 一组明日方舟风格的 GNOME dotfile 配置
+- [Eltik/myrtle](https://github.com/Eltik/myrtle)
+    - [主页](https://myrtle.moe/dps-calculator)
+    - A comprehensive Arknights game information and calculation platform with an elegant, modern interface.
+- [cyanChill/Caerula](https://github.com/cyanChill/Caerula)
+    - [主页](https://caerula.vercel.app/)
+    - Web interface for viewing information about Arknights.
+- [WantChane/fcitx5-pinyin-arknights](https://github.com/WantChane/fcitx5-pinyin-arknights)
+    - 一个使用 mw2fcitx 制作的 明日方舟 词库，数据来源 PRTS
 
 ### 社区衍生
 
@@ -454,6 +470,9 @@
 - [ArknightsVote/ArknightsVote](https://github.com/ArknightsVote/ArknightsVote)
     - [主页](https://vote.ltsc.vip)
     - 明日方舟六星干员强度投票箱
+- [uoep/UOEP](https://github.com/uoep/UOEP)
+    - [主页](https://uoep.github.io/)
+    - Universal battlefield-adaptive Operator Evaluation Protocol for Arknights / 泛用型环境自适应干员强度评价体系 for 明日方舟
 
 ### 活动日程
 
