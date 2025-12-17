@@ -1,4 +1,10 @@
-# Awesome Arknights
+<h2 align="center">Awesome Arknights</h2>
+
+<p align="center">
+  <a href="https://github.com/sindresorhus/awesome">
+    <img src="https://awesome.re/badge.svg" alt="Awesome badge" />
+  </a>
+</p>
 
 > A curated list of awesome things related to Arknights.
 
@@ -6,16 +12,17 @@
 
 早期有一个项目 [cyf-gh/awesome-Arknights](https://github.com/cyf-gh/awesome-Arknights)，于 2020 年停止维护，时隔 4 年（2024 年）本项目基于最新的 GitHub 仓库，重新整理相关项目，并将持续维护。
 
+明日方舟：终末地的 Awesome List 请移步 [palmcivet/awesome-arknights-endfield](https://github.com/palmcivet/awesome-arknights-endfield)。
+
 ## 目录
 
-- [Awesome Arknights](#awesome-arknights)
-    - [目录](#目录)
-    - [列表](#列表)
-    - [项目愿景](#项目愿景)
-    - [贡献指南](#贡献指南)
-    - [未来计划](#未来计划)
-    - [协议](#协议)
-    - [免责声明](#免责声明)
+- [目录](#目录)
+- [列表](#列表)
+- [项目愿景](#项目愿景)
+- [贡献指南](#贡献指南)
+- [未来计划](#未来计划)
+- [协议](#协议)
+- [免责声明](#免责声明)
 
 ## 列表
 

@@ -88,6 +88,8 @@
 - [ZeroAd-06/ArknightsCostBarRuler](https://github.com/ZeroAd-06/ArknightsCostBarRuler)
     - 明日方舟费用条尺子
     - 一个为《明日方舟》设计的悬浮窗工具，基于费用条变化测量当前关卡内的帧数，帮助玩家复刻极限操作。
+- [ESHIWU/Miao3trike](https://github.com/ESHIWU/Miao3trike)
+    - 一个明日方舟划火柴小工具，适用于 Android 设备
 
 ### 森空岛相关
 
