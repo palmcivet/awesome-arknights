@@ -116,6 +116,9 @@
     - 明日方舟自动常驻剿灭
 - [HX3N/PlayBridge](https://github.com/HX3N/PlayBridge)
     - Simple ADB emulator for Google Play Games, especially for Arknights & MAA
+- [billma007/maa-prompt-generator](https://github.com/billma007/maa-prompt-generator)
+    - [主页](https://maa.billma.top/)
+    - 生成 MAA 提示词，用于 AI 操作 MAA
 
 ## 游戏资源
 
@@ -232,9 +235,6 @@
     - AstroArknights 的目标是基于 Astro 框架构建全特性静态网站生成器（SSG）。其设计致敬了明日方舟手游简中官方网站。
 - [Yue-plus/vuepress-theme-rhinelab](https://github.com/Yue-plus/vuepress-theme-rhinelab)
     - 明日方舟莱茵生命阵营的 VuePress 主题
-- [Yue-plus/astro-endfield](https://github.com/Yue-plus/astro-endfield)
-    - [预览](http://astro.endfield.icu)
-    - 明日方舟：终末地风格的 Astro 主题
 
 ### 效果复刻
 
@@ -277,9 +277,6 @@
 - [RhineAI-Lab/rhine-var](https://github.com/RhineAI-Lab/rhine-var)
     - [主页](https://rv.rhineai.com)
     - The world's most intuitive and reliable strongly-typed collaborative library
-- [Yue-plus/endfield_icons](https://github.com/Yue-plus/endfield_icons)
-    - [主页](http://icons.endfield.icu)
-    - 明日方舟：终末地图标
 
 ## 集成战略
 ### 工具资料
