@@ -20,6 +20,7 @@
         - [工具资料](#工具资料)
         - [赛事计分器](#赛事计分器)
     - [生息演算](#生息演算)
+    - [卫戍协议](#卫戍协议)
     - [游戏 Mod](#游戏-mod)
         - [我的世界 Minecraft](#我的世界-minecraft)
         - [杀戮尖塔 Slay the Spire](#杀戮尖塔-slay-the-spire)
@@ -347,6 +348,14 @@
     - 明日方舟生息演算地图查询
 - [LuoTianOrange/SXYS-tools](https://github.com/LuoTianOrange/SXYS-tools)
     - 明日方舟生息演算在线地图
+
+## 卫戍协议
+
+- [Ancientea/MaaAutoReverse](https://github.com/Ancientea/MaaAutoReverse)
+    - 基于 MaaFramework 的卫戍协议自动倒转、保留干员道具的小助手
+- [ancientea/Stronghold_protocol](https://github.com/ancientea/Stronghold_protocol)
+    - [主页](https://ancientea.github.io/Stronghold_protocol/)
+    - 卫戍协议数据查询及特性联动
 
 ## 游戏 Mod
 
