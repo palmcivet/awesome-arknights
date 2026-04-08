@@ -91,6 +91,8 @@
     - 一个为《明日方舟》设计的悬浮窗工具，基于费用条变化测量当前关卡内的帧数，帮助玩家复刻极限操作。
 - [ESHIWU/Miao3trike](https://github.com/ESHIWU/Miao3trike)
     - 一个明日方舟划火柴小工具，适用于 Android 设备
+- [CloudTracey/arknights-frame-assistant](https://github.com/CloudTracey/arknights-frame-assistant)
+    - 明日方舟帧操小助手 ArknightsFrameAssistant，简称 AFA。这是一个用于优化明日方舟 PC 端体验的简单小工具，提供全按键自定义、高精度操作等功能
 
 ### 森空岛相关
 
