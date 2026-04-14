@@ -459,6 +459,10 @@
     - Web interface for viewing information about Arknights.
 - [WantChane/fcitx5-pinyin-arknights](https://github.com/WantChane/fcitx5-pinyin-arknights)
     - 一个使用 mw2fcitx 制作的 明日方舟 词库，数据来源 PRTS
+- [BiologyHazard/arknights-archive-library](https://github.com/BiologyHazard/arknights-archive-library)
+    - 明日方舟数据档案馆
+- [3aKHP/prts-mcp](https://github.com/3aKHP/prts-mcp)
+    - MCP Server for Arknights PRTS Wiki and local game data
 
 ### 社区衍生
 
