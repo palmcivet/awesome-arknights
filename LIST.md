@@ -151,6 +151,9 @@
     - [主页](https://arkwaifu.cc)
     - [前端仓库](https://github.com/FlandiaYingman/arkwaifu-frontend)
     - Arkwaifu 提供几乎所有从明日方舟中提取的图片资源
+- [SHUAXINDIARY/Arknights-Artwork-Collection](https://github.com/SHUAXINDIARY/Arknights-Artwork-Collection)
+    - [主页](https://akgallery.shuaxinjs.cn)
+    - Arknights Artwork Collection | 明日方舟相关插画收集
 
 ## 数据统计
 
