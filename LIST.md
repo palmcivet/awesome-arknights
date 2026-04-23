@@ -241,6 +241,9 @@
     - AstroArknights 的目标是基于 Astro 框架构建全特性静态网站生成器（SSG）。其设计致敬了明日方舟手游简中官方网站。
 - [Yue-plus/vuepress-theme-rhinelab](https://github.com/Yue-plus/vuepress-theme-rhinelab)
     - 明日方舟莱茵生命阵营的 VuePress 主题
+- [mornikar/mornikar.github.io](https://github.com/mornikar/mornikar.github.io)
+    - Mornikar's Personal Station
+    - LLM Wiki 知识管理 + Hexo Arknights 博客 + AI 对话助手 + GitHub Pages
 
 ### 效果复刻
 
