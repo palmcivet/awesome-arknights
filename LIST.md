@@ -469,6 +469,9 @@
     - 明日方舟数据档案馆
 - [3aKHP/prts-mcp](https://github.com/3aKHP/prts-mcp)
     - MCP Server for Arknights PRTS Wiki and local game data
+- [morandot/arknights-skill](https://github.com/morandot/arknights-skill)
+    - [主页](https://clawhub.ai/morandot/arknights-skill)
+    - 一个面向《明日方舟》的 Agent Skill，用来回答干员定位、技能机制、养成规划、剧情梳理、术语解释和关卡思路。
 
 ### 社区衍生
 
