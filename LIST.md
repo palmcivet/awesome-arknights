@@ -94,6 +94,8 @@
     - 一个明日方舟划火柴小工具，适用于 Android 设备
 - [CloudTracey/arknights-frame-assistant](https://github.com/CloudTracey/arknights-frame-assistant)
     - 明日方舟帧操小助手 ArknightsFrameAssistant，简称 AFA。这是一个用于优化明日方舟 PC 端体验的简单小工具，提供全按键自定义、高精度操作等功能
+- [std-microblock/arknights-pc-qol-mods](https://github.com/std-microblock/arknights-pc-qol-mods)
+    - 《明日方舟》 PC 版的增强工具，提供帧率限制解锁、划火柴等功能。
 
 ### 森空岛相关
 
