@@ -24,6 +24,7 @@
     - [游戏 Mod](#游戏-mod)
         - [我的世界 Minecraft](#我的世界-minecraft)
         - [杀戮尖塔 Slay the Spire](#杀戮尖塔-slay-the-spire)
+    - [AI 相关](#ai-相关)
     - [杂项](#杂项)
         - [社区衍生](#社区衍生)
         - [活动日程](#活动日程)
@@ -404,6 +405,16 @@
     - 杀戮尖塔明日方舟迷迭香同人 mod
     - Arknights Rosmontis Mod for Slay The Spire
 
+## AI 相关
+
+- [shedding-ash/Kal-tsit-LLM](https://github.com/shedding-ash/Kal-tsit-LLM)
+    - Kal'tsit LLM 是一款模仿《明日方舟》中角色凯尔希的语气和风格的聊天机器人，其基于 internLM2 7B 进行了精细的指令微调，能够以凯尔希的口吻与用户进行互动
+- [3aKHP/prts-mcp](https://github.com/3aKHP/prts-mcp)
+    - MCP Server for Arknights PRTS Wiki and local game data
+- [morandot/arknights-skill](https://github.com/morandot/arknights-skill)
+    - [主页](https://clawhub.ai/morandot/arknights-skill)
+    - 一个面向《明日方舟》的 Agent Skill，用来回答干员定位、技能机制、养成规划、剧情梳理、术语解释和关卡思路。
+
 ## 杂项
 
 - [isHarryh/Ark-Pets](https://github.com/isHarryh/Ark-Pets)
@@ -432,8 +443,6 @@
     - 《明日方舟》名称
 - [walker-1024/furniture_filter](https://github.com/walker-1024/furniture_filter)
     - 用于检索出明日方舟的资源文件中关于给定主题的家具的相关文件
-- [shedding-ash/Kal-tsit-LLM](https://github.com/shedding-ash/Kal-tsit-LLM)
-    - Kal'tsit LLM 是一款模仿《明日方舟》中角色凯尔希的语气和风格的聊天机器人，其基于 internLM2 7B 进行了精细的指令微调，能够以凯尔希的口吻与用户进行互动
 - [longkong39/longkong39-TaiLa_KnowledgeQuizSystem](https://github.com/longkong39/longkong39-TaiLa_KnowledgeQuizSystem)
     - 本项目主要内容为使用自制数据集微调后的模型通过知识库检索进行游戏《明日方舟》内容的知识检索问答系统
 - [RF-Tar-Railt/arknights-toolkit](https://github.com/RF-Tar-Railt/arknights-toolkit)
@@ -467,11 +476,6 @@
     - 一个使用 mw2fcitx 制作的 明日方舟 词库，数据来源 PRTS
 - [BiologyHazard/arknights-archive-library](https://github.com/BiologyHazard/arknights-archive-library)
     - 明日方舟数据档案馆
-- [3aKHP/prts-mcp](https://github.com/3aKHP/prts-mcp)
-    - MCP Server for Arknights PRTS Wiki and local game data
-- [morandot/arknights-skill](https://github.com/morandot/arknights-skill)
-    - [主页](https://clawhub.ai/morandot/arknights-skill)
-    - 一个面向《明日方舟》的 Agent Skill，用来回答干员定位、技能机制、养成规划、剧情梳理、术语解释和关卡思路。
 
 ### 社区衍生
 
