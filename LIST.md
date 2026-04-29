@@ -416,6 +416,9 @@
 - [morandot/arknights-skill](https://github.com/morandot/arknights-skill)
     - [主页](https://clawhub.ai/morandot/arknights-skill)
     - 一个面向《明日方舟》的 Agent Skill，用来回答干员定位、技能机制、养成规划、剧情梳理、术语解释和关卡思路。
+- [Mark-Ke-MA/MemoquasarEterna](https://github.com/Mark-Ke-MA/MemoquasarEterna)
+    - A toy local memory system for multi-agent workflows
+    - MemoquasarEterna（记忆的存续）是一套面向多 agent 场景的本地记忆系统。
 
 ## 杂项
 
