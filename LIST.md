@@ -40,6 +40,7 @@
 - [SanityGoneAK/sanity-gone](https://github.com/SanityGoneAK/sanity-gone)
     - [主页](https://sanitygone.help)
     - An Arknights database
+    - Sanity;Gone 是一个明日方舟玩家的社区资源，提供游戏攻略、干员评测和其他信息。
 - [Houdou/arkgraph](https://github.com/Houdou/arkgraph)
     - 明日方舟地图、关系网、干员培养表等数据
     - [主页](https://ark-nights.com)
@@ -399,13 +400,18 @@
 
 - [KhasAlushird/slay-the-spire-arknights-mod-Shamare](https://github.com/KhasAlushird/slay-the-spire-arknights-mod-Shamare)
     - 杀戮尖塔明日方舟巫恋同人 mod
+    - [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3340981749)
 - [KhasAlushird/slay-the-spire-arknights-mod-Muelsyse](https://github.com/KhasAlushird/slay-the-spire-arknights-mod-Muelsyse)
     - 杀戮尖塔明日方舟缪尔赛思同人 mod
+    - [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3321582269)
 - [hyperv0id/lingmod](https://github.com/hyperv0id/lingmod)
     - 杀戮尖塔明日方舟令角色 mod
 - [R0Bill/RosMod](https://github.com/R0Bill/RosMod)
     - 杀戮尖塔明日方舟迷迭香同人 mod
     - Arknights Rosmontis Mod for Slay The Spire
+- [KhasAlushird/SlayTheSpire_mod_Suzuran-master](https://github.com/KhasAlushird/SlayTheSpire_mod_Suzuran-master)
+    - 杀戮尖塔明日方舟铃兰同人 mod
+    - [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3515187713)
 
 ## AI 相关
 
