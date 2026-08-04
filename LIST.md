@@ -126,6 +126,8 @@
 - [billma007/maa-prompt-generator](https://github.com/billma007/maa-prompt-generator)
     - [主页](https://maa.billma.top/)
     - 生成 MAA 提示词，用于 AI 操作 MAA
+- [0x1b2c/aphrissa](https://github.com/0x1b2c/aphrissa)
+    - 基于 maa-cli 的 Web 调度界面，无人值守完成日常，有人在玩时自动让开
 
 ## 游戏资源
 
