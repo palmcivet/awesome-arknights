@@ -151,7 +151,7 @@
     - 明日方舟 Spine 动画小人模型（节选）
 - [astral4/arkdata](https://github.com/astral4/arkdata)
     - arkdata is an application for obtaining Arknights assets
-- [FlandiaYingman/arkwaifu](https://github.com/FlandiaYingman/arkwaifu)
+- [flandia/arkwaifu](https://github.com/flandia/arkwaifu)
     - [主页](https://arkwaifu.cc)
     - [前端仓库](https://github.com/FlandiaYingman/arkwaifu-frontend)
     - Arkwaifu 提供几乎所有从明日方舟中提取的图片资源
@@ -511,6 +511,9 @@
 - [uoep/UOEP](https://github.com/uoep/UOEP)
     - [主页](https://uoep.github.io/)
     - Universal battlefield-adaptive Operator Evaluation Protocol for Arknights / 泛用型环境自适应干员强度评价体系 for 明日方舟
+- [NymMtsumi/arknights-guess](https://github.com/NymMtsumi/arknights-guess)
+    - [主页](https://arknights-guess.online/)
+    - 受 blast.tv/counter-strikle 启发的明日方舟角色猜测游戏
 
 ### 活动日程
 
