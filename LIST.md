@@ -24,6 +24,7 @@
     - [游戏 Mod](#游戏-mod)
         - [我的世界 Minecraft](#我的世界-minecraft)
         - [杀戮尖塔 Slay the Spire](#杀戮尖塔-slay-the-spire)
+        - [杀戮尖塔 2 Slay the Spire 2](#杀戮尖塔-2-slay-the-spire-2)
     - [AI 相关](#ai-相关)
     - [杂项](#杂项)
         - [社区衍生](#社区衍生)
@@ -414,6 +415,11 @@
 - [KhasAlushird/SlayTheSpire_mod_Suzuran-master](https://github.com/KhasAlushird/SlayTheSpire_mod_Suzuran-master)
     - 杀戮尖塔明日方舟铃兰同人 mod
     - [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3515187713)
+
+### 杀戮尖塔 2 Slay the Spire 2
+
+- [MT-SUPER-POWER/Sts2ArknightsMod](https://github.com/MT-SUPER-POWER/Sts2ArknightsMod)
+    - 杀戮尖塔 2 巫恋 mod
 
 ## AI 相关
 
