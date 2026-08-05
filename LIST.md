@@ -129,6 +129,9 @@
     - 生成 MAA 提示词，用于 AI 操作 MAA
 - [0x1b2c/aphrissa](https://github.com/0x1b2c/aphrissa)
     - 基于 maa-cli 的 Web 调度界面，无人值守完成日常，有人在玩时自动让开
+- [Rememorio/AutoMAA](https://github.com/Rememorio/AutoMAA)
+    - [主页](https://rememorio.github.io/AutoMAA/)
+    - 原生 macOS MAA 工作流编排器：多客户端、多账号、可复用方案、定时运行与安全续跑
 
 ## 游戏资源
 
