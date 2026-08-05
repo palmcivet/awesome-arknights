@@ -525,6 +525,9 @@
 - [NymMtsumi/arknights-guess](https://github.com/NymMtsumi/arknights-guess)
     - [主页](https://arknights-guess.online/)
     - 受 blast.tv/counter-strikle 启发的明日方舟角色猜测游戏
+- [EVAAN25/arknights-playground](https://github.com/EVAAN25/arknights-playground)
+    - [主页](https://evaan25.github.io/arknights-playground/)
+    - 明日方舟粉丝同人小游戏站：猜干员、语音猜人、人气对决、阵营连线、版本排排坐
 
 ### 活动日程
 
