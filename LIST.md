@@ -217,6 +217,9 @@
 - [darkwebdev/ak-events](https://github.com/darkwebdev/ak-events)
     - [主页](https://darkwebdev.github.io/ak-events/)
     - Arknights Pull Prophecy
+- [big-mon/arknights-basement-simulator](https://github.com/big-mon/arknights-basement-simulator)
+    - [主页](https://arknights.damonge.com/)
+    - 明日方舟基建排班模拟器
 
 ## API
 
