@@ -439,6 +439,9 @@
 - [Mark-Ke-MA/MemoquasarEterna](https://github.com/Mark-Ke-MA/MemoquasarEterna)
     - A toy local memory system for multi-agent workflows
     - MemoquasarEterna（记忆的存续）是一套面向多 agent 场景的本地记忆系统。
+- [lockon-n/Arknights-Codex-Pets](https://github.com/lockon-n/Arknights-Codex-Pets)
+    - Codex Arknights Pets | Codex 明日方舟宠物
+    - 将《明日方舟》干员基建动态小人转换为 Codex v2 宠物的社区项目
 
 ## 杂项
 
