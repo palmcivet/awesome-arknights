@@ -628,3 +628,5 @@
 - [lonelyion/koishi-plugin-mizuki-bot](https://github.com/lonelyion/koishi-plugin-mizuki-bot)
     - 明日方舟多功能 BOT
     - Arknights Mizuki bot, Koishi plugin
+- [IJNKAWAKAZE/arknights_bot](https://github.com/IJNKAWAKAZE/arknights_bot)
+    - 明日方舟 Telegram 机器人，包含入群验证、森空岛签到、游戏数据查询、群组小游戏等功能
