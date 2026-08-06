@@ -550,6 +550,8 @@
     - An operator recruitment tool with OCR functionality for Arknights/明日方舟/アークナイツ
 - [BiologyHazard/credit-store-recognizer](https://github.com/BiologyHazard/credit-store-recognizer)
     - 识别明日方舟的信用商店
+- [JelawatIHPC/ArkBattleRecordClipper](https://github.com/JelawatIHPC/ArkBattleRecordClipper)
+    - 明日方舟作战记录自动剪辑器，基于图像识别剪掉暂停片段并支持硬件加速编解码
 
 ### 剧情相关
 
