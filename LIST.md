@@ -504,6 +504,9 @@
     - 一个使用 mw2fcitx 制作的 明日方舟 词库，数据来源 PRTS
 - [BiologyHazard/arknights-archive-library](https://github.com/BiologyHazard/arknights-archive-library)
     - 明日方舟数据档案馆
+- [KJH-x/ak_operator_list](https://github.com/KJH-x/ak_operator_list)
+    - [主页](https://aak.nslc.top/)
+    - 明日方舟通行认证图鉴
 
 ### 社区衍生
 
