@@ -509,6 +509,8 @@
 - [KJH-x/ak_operator_list](https://github.com/KJH-x/ak_operator_list)
     - [主页](https://aak.nslc.top/)
     - 明日方舟通行认证图鉴
+- [GoldenYouth01/Arknights-Android_Music_Player](https://github.com/GoldenYouth01/Arknights-Android_Music_Player)
+    - 播放塞壬唱片音乐的安卓端播放器
 
 ### 社区衍生
 
