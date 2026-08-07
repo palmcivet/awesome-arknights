@@ -537,6 +537,9 @@
 - [EVAAN25/arknights-playground](https://github.com/EVAAN25/arknights-playground)
     - [主页](https://evaan25.github.io/arknights-playground/)
     - 明日方舟粉丝同人小游戏站：猜干员、语音猜人、人气对决、阵营连线、版本排排坐
+- [CoConuts-Milk0325/voice-guess-arknights](https://github.com/CoConuts-Milk0325/voice-guess-arknights)
+    - [主页](https://voice-guess-arknights.coconutsmilk.top/)
+    - 根据《明日方舟》干员语音猜干员的网页游戏
 
 ### 活动日程
 
