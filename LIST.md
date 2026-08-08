@@ -132,6 +132,8 @@
 - [Rememorio/AutoMAA](https://github.com/Rememorio/AutoMAA)
     - [主页](https://rememorio.github.io/AutoMAA/)
     - 原生 macOS MAA 工作流编排器：多客户端、多账号、可复用方案、定时运行与安全续跑
+- [EagleRanger/maa-arknights-ai-automation](https://github.com/EagleRanger/maa-arknights-ai-automation)
+    - AI 编排与监管 MAA，实现明日方舟日常、主线、活动、肉鸽与生息演算自动化
 
 ## 游戏资源
 
