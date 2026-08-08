@@ -565,6 +565,8 @@
     - 识别明日方舟的信用商店
 - [JelawatIHPC/ArkBattleRecordClipper](https://github.com/JelawatIHPC/ArkBattleRecordClipper)
     - 明日方舟作战记录自动剪辑器，基于图像识别剪掉暂停片段并支持硬件加速编解码
+- [Tisn4627/ArknightsVideoPipeline](https://github.com/Tisn4627/ArknightsVideoPipeline)
+    - 明日方舟视频处理流水线，一键完成视频识别、文本提取与视频合成
 
 ### 剧情相关
 
