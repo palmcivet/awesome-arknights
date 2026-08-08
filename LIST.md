@@ -446,6 +446,8 @@
     - 将《明日方舟》干员基建动态小人转换为 Codex v2 宠物的社区项目
 - [yaoyao-py/arknights-base-scheduler](https://github.com/yaoyao-py/arknights-base-scheduler)
     - 通过 Skill 辅助玩家针对现有干员进行基建排班，生成可验证、可执行的排班方案
+- [Hnsr0327/arknights-base-simulation](https://github.com/Hnsr0327/arknights-base-simulation)
+    - 基于干员练度、上线时刻与素材理智价值，搜索最大日均理智收益的循环生产方案，并可导出 MAA 排班表
 
 ## 杂项
 
