@@ -32,6 +32,8 @@
         - [图像识别](#图像识别)
         - [剧情相关](#剧情相关)
         - [算法分析和求解](#算法分析和求解)
+        - [宝石铭刻](#宝石铭刻)
+        - [像素巡展](#像素巡展)
         - [Bot](#bot)
 
 ## 在线网站
@@ -602,6 +604,11 @@
     - Plugin for Arknights gacha, support multi platform 明日方舟抽卡模拟器
 - [Konano/snowsant-calculator](https://github.com/Konano/snowsant-calculator)
     - 一个基于 Python 的策略求解器，用于最大化《雪雉的小店》的期望收益
+- [GGN-2015/arknights_museum_navigator](https://github.com/GGN-2015/arknights_museum_navigator)
+    - 明日方舟博物馆大发现最短路导航工具
+
+### 宝石铭刻
+
 - [sevmeowple/ArkGemstone](https://github.com/sevmeowple/ArkGemstone)
     - [主页](https://sevmeowple.github.io/ArkGemstone)
     - Arknights 活动小游戏宝石铭刻最优解预测
@@ -609,13 +616,29 @@
     - 【宝石铭刻】明日方舟-太阳甩在身后-活动计算器
 - [ArchyCillp/Arknights-Gemstone-Inscription](https://github.com/ArchyCillp/Arknights-Gemstone-Inscription)
     - 明日方舟宝石铭刻小游戏单局最有策略解决方案
-- [GGN-2015/arknights_museum_navigator](https://github.com/GGN-2015/arknights_museum_navigator)
-    - 明日方舟博物馆大发现最短路导航工具
 - [AdorableParker/Arknights-Gemstone-engraving-Calculator](https://github.com/AdorableParker/Arknights-Gemstone-engraving-Calculator)
     - 明日方舟 宝石铭刻 局部最优求解器
 - [Flowing-star/Ark_Gemstone_calculator](https://github.com/Flowing-star/Ark_Gemstone_calculator)
     - A calculator for Gemstone marking
     - 一个为了明日方舟宝石铭刻设计的的计算器
+
+### 像素巡展
+
+- [conyhair/SXXY-html](https://github.com/conyhair/SXXY-html)
+    - [主页](https://conyhair.github.io/SXXY-html/)
+    - 一款仅在浏览器本地运行的 24×24 像素画生成器，支持正方形裁剪与 CIELAB K-means 量化为 8/16/24/32 色，并导出不透明 PNG
+- [MiraCeo/tourgrid-studio](https://github.com/MiraCeo/tourgrid-studio)
+    - [主页](https://tourgrid.miraceo.com/)
+    - 旅行「像」框，一款非官方的 24×24 像素画编辑器，可将图片转换为官方 40 色范围内的像素画，并提供逐像素编辑、颜色统计、参考图与作品导出功能
+- [JayJokerr/arknights-pixel-autofill](https://github.com/JayJokerr/arknights-pixel-autofill)
+    - 面向 Windows 明日方舟 PC 客户端的 24×24 像素画转换、手动编辑与自动填色工具
+- [Dr-hydra/Arknights-Painter](https://github.com/Dr-hydra/Arknights-Painter)
+    - 将图片转换为 24×24 像素画，并通过 ADB 或 Win32 窗口输入自动绘制到安卓模拟器或原生电脑版的 WinUI 3 工具
+- [Ruochenll/fangzhou-pingdou](https://github.com/Ruochenll/fangzhou-pingdou)
+    - 拼豆像素画助手：将图片转换为 24×24 像素画并按游戏 40 色色板配色，通过图像识别与模拟点击在涂鸦玩法中自动落格填色
+- [Potatomatomato/arknights-pixel-tool](https://github.com/Potatomatomato/arknights-pixel-tool)
+    - A lightweight Arknights 24x24 pixel art automation tool for MuMu emulator via ADB
+    - 面向 Windows 与 MuMu 模拟器的轻量级 24×24 像素画工具，支持图片裁剪与 40 色转换，并通过 ADB 自动绘制
 
 ### Bot
 
