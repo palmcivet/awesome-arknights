@@ -425,6 +425,8 @@
 - [KhasAlushird/SlayTheSpire_mod_Suzuran-master](https://github.com/KhasAlushird/SlayTheSpire_mod_Suzuran-master)
     - 杀戮尖塔明日方舟铃兰同人 mod
     - [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3515187713)
+- [HimeragiYukina/mizuki-mod-sts](https://github.com/HimeragiYukina/mizuki-mod-sts)
+    - 杀戮尖塔明日方舟水月角色 mod
 
 ### 杀戮尖塔 2 Slay the Spire 2
 
