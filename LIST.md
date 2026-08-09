@@ -548,6 +548,8 @@
 - [CoConuts-Milk0325/voice-guess-arknights](https://github.com/CoConuts-Milk0325/voice-guess-arknights)
     - [主页](https://voice-guess-arknights.coconutsmilk.top/)
     - 根据《明日方舟》干员语音猜干员的网页游戏
+- [yuanshi233/arknights_outpost_protocol](https://github.com/yuanshi233/arknights_outpost_protocol)
+    - 《明日方舟：废土前哨协议》——基于明日方舟世界观的上帝视角硬核生存建造游戏，Godot 4.x C# 开源实现
 
 ### 活动日程
 
