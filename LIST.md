@@ -554,6 +554,9 @@
     - 根据《明日方舟》干员语音猜干员的网页游戏
 - [yuanshi233/arknights_outpost_protocol](https://github.com/yuanshi233/arknights_outpost_protocol)
     - 《明日方舟：废土前哨协议》——基于明日方舟世界观的上帝视角硬核生存建造游戏，Godot 4.x C# 开源实现
+- [Minecrash98/zhe-pian-da-di-font-pack](https://github.com/Minecrash98/zhe-pian-da-di-font-pack)
+    - [主页](https://angelina-arknights.pages.dev)
+    - 「这片大地」字体包：以 2026 年夏日活动「直到大地变成一颗酸橙」为主题的二创文字图片生成器，支持自定义排版、贴纸图层与 PNG/GIF 导出
 
 ### 活动日程
 
