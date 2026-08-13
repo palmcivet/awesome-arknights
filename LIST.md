@@ -644,6 +644,9 @@
 - [Potatomatomato/arknights-pixel-tool](https://github.com/Potatomatomato/arknights-pixel-tool)
     - A lightweight Arknights 24x24 pixel art automation tool for MuMu emulator via ADB
     - 面向 Windows 与 MuMu 模拟器的轻量级 24×24 像素画工具，支持图片裁剪与 40 色转换，并通过 ADB 自动绘制
+- [isHarryh/Ark-Picit](https://github.com/isHarryh/Ark-Picit)
+    - Arknights Pixel Art Painter | 明日方舟奇象巡展像素画创作工具
+    - 基于 PySide6 的像素画编辑器，支持从图片智能创建、ArkPicCode 分享码、Win32/ADB 游戏内自动作画与联网浏览作品
 
 ### Bot
 
