@@ -519,6 +519,8 @@
     - 明日方舟通行认证图鉴
 - [GoldenYouth01/Arknights-Android_Music_Player](https://github.com/GoldenYouth01/Arknights-Android_Music_Player)
     - 播放塞壬唱片音乐的安卓端播放器
+- [mohoney233/OranPage](https://github.com/mohoney233/OranPage)
+    - 一款《明日方舟》安洁莉娜主题 + Windows XP 风格的浏览器新标签页扩展，将空白新标签页替换为可交互的经典桌面环境，包含拖拽图标、任务栏、文件管理器、音乐播放器和桌面宠物
 
 ### 社区衍生
 
