@@ -100,6 +100,9 @@
     - 明日方舟帧操小助手 ArknightsFrameAssistant，简称 AFA。这是一个用于优化明日方舟 PC 端体验的简单小工具，提供全按键自定义、高精度操作等功能
 - [std-microblock/arknights-pc-qol-mods](https://github.com/std-microblock/arknights-pc-qol-mods)
     - 《明日方舟》 PC 版的增强工具，提供帧率限制解锁、划火柴等功能。
+- [2845086683/ArknightsLocalizationToolkit](https://github.com/2845086683/ArknightsLocalizationToolkit)
+    - 明日方舟 PC 日服／美服离线中文工具
+    - 将 Windows PC 日服（JP）或美服（EN）的游戏内文本映射为简体中文的汉化工具，内置离线词库，无需翻译 API
 
 ### 森空岛相关
 
