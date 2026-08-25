@@ -26,6 +26,8 @@
         - [杀戮尖塔 Slay the Spire](#杀戮尖塔-slay-the-spire)
         - [杀戮尖塔 2 Slay the Spire 2](#杀戮尖塔-2-slay-the-spire-2)
     - [AI 相关](#ai-相关)
+        - [Skills](#skills)
+        - [DeepSeek Harness](#deepseek-harness)
     - [杂项](#杂项)
         - [社区衍生](#社区衍生)
         - [活动日程](#活动日程)
@@ -442,19 +444,31 @@
     - Kal'tsit LLM 是一款模仿《明日方舟》中角色凯尔希的语气和风格的聊天机器人，其基于 internLM2 7B 进行了精细的指令微调，能够以凯尔希的口吻与用户进行互动
 - [3aKHP/prts-mcp](https://github.com/3aKHP/prts-mcp)
     - MCP Server for Arknights PRTS Wiki and local game data
-- [morandot/arknights-skill](https://github.com/morandot/arknights-skill)
-    - [主页](https://clawhub.ai/morandot/arknights-skill)
-    - 一个面向《明日方舟》的 Agent Skill，用来回答干员定位、技能机制、养成规划、剧情梳理、术语解释和关卡思路。
 - [Mark-Ke-MA/MemoquasarEterna](https://github.com/Mark-Ke-MA/MemoquasarEterna)
     - A toy local memory system for multi-agent workflows
     - MemoquasarEterna（记忆的存续）是一套面向多 agent 场景的本地记忆系统。
 - [lockon-n/Arknights-Codex-Pets](https://github.com/lockon-n/Arknights-Codex-Pets)
     - Codex Arknights Pets | Codex 明日方舟宠物
     - 将《明日方舟》干员基建动态小人转换为 Codex v2 宠物的社区项目
-- [yaoyao-py/arknights-base-scheduler](https://github.com/yaoyao-py/arknights-base-scheduler)
-    - 通过 Skill 辅助玩家针对现有干员进行基建排班，生成可验证、可执行的排班方案
 - [Hnsr0327/arknights-base-simulation](https://github.com/Hnsr0327/arknights-base-simulation)
     - 基于干员练度、上线时刻与素材理智价值，搜索最大日均理智收益的循环生产方案，并可导出 MAA 排班表
+
+### Skills
+
+- [morandot/arknights-skill](https://github.com/morandot/arknights-skill)
+    - [主页](https://clawhub.ai/morandot/arknights-skill)
+    - 一个面向《明日方舟》的 Agent Skill，用来回答干员定位、技能机制、养成规划、剧情梳理、术语解释和关卡思路。
+- [yaoyao-py/arknights-base-scheduler](https://github.com/yaoyao-py/arknights-base-scheduler)
+    - 通过 Skill 辅助玩家针对现有干员进行基建排班，生成可验证、可执行的排班方案
+
+### DeepSeek Harness
+
+- [1gudao1/angelina-web-deco](https://github.com/1gudao1/angelina-web-deco)
+    - 明日方舟安洁莉娜主题的 DeepSeek Harness Web UI 装饰插件，用角色贴纸铺满页面留白，并附带照片上传功能
+- [Entity-Him/dsh-skin-prts](https://github.com/Entity-Him/dsh-skin-prts)
+    - 为 DeepSeek Harness Web UI 还原明日方舟 PRTS 终端界面风格的纯 CSS 皮肤插件
+- [FlowerWater1019/Angelina-dsh-plugin](https://github.com/FlowerWater1019/Angelina-dsh-plugin)
+    - 用于 DeepSeek Harness Web UI 的非官方安洁莉娜桌面伙伴与罗德岛风格主题插件，含动态背景、可拖动伙伴、纸飞机动画与重力场特效
 
 ## 杂项
 
