@@ -469,6 +469,8 @@
     - 为 DeepSeek Harness Web UI 还原明日方舟 PRTS 终端界面风格的纯 CSS 皮肤插件
 - [FlowerWater1019/Angelina-dsh-plugin](https://github.com/FlowerWater1019/Angelina-dsh-plugin)
     - 用于 DeepSeek Harness Web UI 的非官方安洁莉娜桌面伙伴与罗德岛风格主题插件，含动态背景、可拖动伙伴、纸飞机动画与重力场特效
+- [DocJlm/dsh-arknights](https://github.com/DocJlm/dsh-arknights)
+    - 面向 DeepSeek Harness Web 的明日方舟主题皮肤合集，每套作品都是可独立安装的 DSH 插件，支持社区创作者提交新主题
 
 ## 杂项
 
