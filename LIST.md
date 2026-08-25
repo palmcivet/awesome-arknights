@@ -576,6 +576,9 @@
 - [Minecrash98/zhe-pian-da-di-font-pack](https://github.com/Minecrash98/zhe-pian-da-di-font-pack)
     - [主页](https://angelina-arknights.pages.dev)
     - 「这片大地」字体包：以 2026 年夏日活动「直到大地变成一颗酸橙」为主题的二创文字图片生成器，支持自定义排版、贴纸图层与 PNG/GIF 导出
+- [SBR-0451/arknights-pv-ranking](https://github.com/SBR-0451/arknights-pv-ranking)
+    - [主页](https://pvduel.cn)
+    - 非官方明日方舟 PV・EP 二选一淘汰赛与匿名公开排行榜
 
 ### 活动日程
 
