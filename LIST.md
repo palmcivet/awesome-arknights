@@ -232,6 +232,9 @@
 - [big-mon/arknights-basement-simulator](https://github.com/big-mon/arknights-basement-simulator)
     - [主页](https://arknights.damonge.com/)
     - 明日方舟基建排班模拟器
+- [KnightCodeSquareMatrix/RIIC-Web](https://github.com/KnightCodeSquareMatrix/RIIC-Web)
+    - [主页](https://riic.autos)
+    - 面向《明日方舟》玩家的基建排班 Web 应用。导入干员数据、配置基建布局后生成三班排班，并提供效率概览、练卡建议和 MAA JSON 导出
 
 ## API
 
