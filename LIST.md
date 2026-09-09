@@ -474,6 +474,9 @@
     - 用于 DeepSeek Harness Web UI 的非官方安洁莉娜桌面伙伴与罗德岛风格主题插件，含动态背景、可拖动伙伴、纸飞机动画与重力场特效
 - [DocJlm/dsh-arknights](https://github.com/DocJlm/dsh-arknights)
     - 面向 DeepSeek Harness Web 的明日方舟主题皮肤合集，每套作品都是可独立安装的 DSH 插件，支持社区创作者提交新主题
+- [HTian-qwq/prts-terrarchive](https://github.com/HTian-qwq/prts-terrarchive)
+    - [主页](https://prts.chat)
+    - 为明日方舟长篇剧情打造的 RAG 类 DeepSeek Harness 插件，将游戏原文、档案、审校 Wiki、实体图鉴与《泰拉年表》装入本地资料包，支持带原文行号的检索与引用
 
 ## 杂项
 
