@@ -629,6 +629,9 @@
     - 《明日方舟》剧情模拟
 - [littlepangding/arknights_lore_wiki](https://github.com/littlepangding/arknights_lore_wiki)
     - 利用 LLM 总结明日方舟剧情 wiki
+- [micfong-z/sarkaz-lexicon](https://github.com/micfong-z/sarkaz-lexicon)
+    - [主页](https://www.micfong.space/en-US/dictionary)
+    - Micfong 的萨卡兹语–中文在线词典数据库，收录构拟词形与词源
 
 ### 算法分析和求解
 
