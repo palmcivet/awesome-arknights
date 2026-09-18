@@ -286,6 +286,10 @@
 - [Cromemadnd/ArknightsUI-React-Template](https://github.com/Cromemadnd/ArknightsUI-React-Template)
     - A react template based on the UI style of Arknights
     - 一个基于《明日方舟》游戏 UI 风格的网页模板
+- [LBEILC/RhineLabUI](https://github.com/LBEILC/RhineLabUI)
+    - [预览](https://rhine.lubeiluchen.cc/)
+    - Rhine Lab archive interface built with TypeScript and Three.js
+    - 《明日方舟》特别映像「莱茵生命：访问」终端界面的非官方三维复刻
 
 ### 字体
 
