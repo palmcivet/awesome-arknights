@@ -143,6 +143,8 @@
     - AI 编排与监管 MAA，实现明日方舟日常、主线、活动、肉鸽与生息演算自动化
 - [mydanyi/MAA-FnOS](https://github.com/mydanyi/MAA-FnOS)
     - MAA 飞牛版：把 MaaAssistantArknights 做成飞牛 fnOS 原生 fpk 应用，浏览器里配置任务、看日志、定时收菜
+- [KlN-4096/MAA-WEB-CONTROL](https://github.com/KlN-4096/MAA-WEB-CONTROL)
+    - 尽量复刻 MAA 原版 Windows UI 的 Web 控制台，可在 Linux 上配置 MAA Core、编辑 profile、查看日志并定时执行日常任务，主要面向 redroid 部署
 
 ## 游戏资源
 
