@@ -640,6 +640,8 @@
 - [micfong-z/sarkaz-lexicon](https://github.com/micfong-z/sarkaz-lexicon)
     - [主页](https://www.micfong.space/en-US/dictionary)
     - Micfong 的萨卡兹语–中文在线词典数据库，收录构拟词形与词源
+- [ApodidaeDeSwift/ArkPlots](https://github.com/ApodidaeDeSwift/ArkPlots)
+    - 明日方舟剧情线梳理工具，在本地记录、筛选与跟踪剧情条目，管理阅读进度，并根据前置关系推荐补读与续读
 
 ### 算法分析和求解
 
