@@ -397,6 +397,8 @@
 - [ancientea/Stronghold_protocol](https://github.com/ancientea/Stronghold_protocol)
     - [主页](https://ancientea.github.io/Stronghold_protocol/)
     - 卫戍协议数据查询及特性联动
+- [sganggs/Stronghold-Protocol](https://github.com/sganggs/Stronghold-Protocol)
+    - 《明日方舟》「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作
 
 ## 游戏 Mod
 
