@@ -105,6 +105,8 @@
 - [2845086683/ArknightsLocalizationToolkit](https://github.com/2845086683/ArknightsLocalizationToolkit)
     - 明日方舟 PC 日服／美服离线中文工具
     - 将 Windows PC 日服（JP）或美服（EN）的游戏内文本映射为简体中文的汉化工具，内置离线词库，无需翻译 API
+- [LendYanTing/ArkCursor](https://github.com/LendYanTing/ArkCursor)
+    - 替换明日方舟 PC 端光标的工具，隐藏游戏内光标并显示自定义光标
 
 ### 森空岛相关
 
