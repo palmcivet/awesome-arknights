@@ -478,6 +478,8 @@
     - 一个面向《明日方舟》的 Agent Skill，用来回答干员定位、技能机制、养成规划、剧情梳理、术语解释和关卡思路。
 - [yaoyao-py/arknights-base-scheduler](https://github.com/yaoyao-py/arknights-base-scheduler)
     - 通过 Skill 辅助玩家针对现有干员进行基建排班，生成可验证、可执行的排班方案
+- [trueRISCOacnt/maa-dsh-skill](https://github.com/trueRISCOacnt/maa-dsh-skill)
+    - 基于 maa-cli 的 DeepSeek Harness Skill，让助手直接驱动 MaaCore，完成日常、刷图、集成战略与生息演算等任务
 
 ### DeepSeek Harness
 
