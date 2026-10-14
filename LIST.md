@@ -321,6 +321,9 @@
 - [RhineAI-Lab/rhine-var](https://github.com/RhineAI-Lab/rhine-var)
     - [主页](https://rv.rhineai.com)
     - The world's most intuitive and reliable strongly-typed collaborative library
+- [icaruszezen/arknights-ui](https://github.com/icaruszezen/arknights-ui)
+    - [预览](https://icaruszezen.github.io/arknights-ui/)
+    - 《明日方舟》设计风格指导文档，附可直接使用的 Design Tokens 和 React 组件库
 
 ## 集成战略
 ### 工具资料
