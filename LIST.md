@@ -500,6 +500,8 @@
 - [HTian-qwq/prts-terrarchive](https://github.com/HTian-qwq/prts-terrarchive)
     - [主页](https://prts.chat)
     - 为明日方舟长篇剧情打造的 RAG 类 DeepSeek Harness 插件，将游戏原文、档案、审校 Wiki、实体图鉴与《泰拉年表》装入本地资料包，支持带原文行号的检索与引用
+- [Respawn-ID/dsh-rhine-splash](https://github.com/Respawn-ID/dsh-rhine-splash)
+    - DeepSeek Harness 桌面版与网页版的莱茵生命主题插件，参考特别映像「莱茵生命：访问」，含开屏动画、界面配色、品牌标志，以及通知、待办与费用面板等附加功能
 
 ## 杂项
 
