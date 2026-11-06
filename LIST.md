@@ -29,7 +29,8 @@
         - [Skills](#skills)
         - [DeepSeek Harness](#deepseek-harness)
     - [杂项](#杂项)
-        - [社区衍生](#社区衍生)
+- [](#)
+    - [社区衍生](#社区衍生)
         - [活动日程](#活动日程)
         - [图像识别](#图像识别)
         - [剧情相关](#剧情相关)
@@ -574,8 +575,11 @@
 - [JNGKZbird/lemuel-scamp](https://github.com/JNGKZbird/lemuel-scamp)
     - Lemuel Scamp | 蕾缪乐·小淘气
     - 明日方舟能天使 / 新约能天使双角色开源桌宠（Windows，Tauri v2）：Spine 3.8 运行时、自主生活与虚拟地球作息、WASD 互动；预览版，角色素材不随仓库分发。
-
-### 社区衍生
+- [SpectMercyRE/Arknights-pass-statistics](https://github.com/SpectMercyRE/Arknights-pass-statistics)
+    - 明日方舟通行认证收集册
+    - 离线管理《明日方舟》与《明日方舟：终末地》通行认证收藏的安卓应用，记录拥有状态、市场价与购入价，并统计收集进度与盈亏
+#
+## 社区衍生
 
 - [Eletary/goo](https://github.com/Eletary/goo)
     - Generator Of Operators in arknights
