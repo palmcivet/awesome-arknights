@@ -495,6 +495,9 @@
 - [isHarryh/Ark-Pets](https://github.com/isHarryh/Ark-Pets)
     - [主页](https://arkpets.harryh.cn)
     - Arknights Desktop Pets | 明日方舟桌宠
+- [JNGKZbird/lemuel-scamp](https://github.com/JNGKZbird/lemuel-scamp)
+    - Lemuel Scamp | 蕾缪乐·小淘气
+    - 明日方舟能天使 / 新约能天使双角色开源桌宠（Windows，Tauri v2）：Spine 3.8 运行时、自主生活与虚拟地球作息、WASD 互动；预览版，角色素材不随仓库分发。
 - [martinwang2002/Theresa-wiki](https://github.com/martinwang2002/Theresa-wiki)
     - [主页](https://theresa.wiki)
     - Theresa.wiki
