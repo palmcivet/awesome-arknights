@@ -353,6 +353,9 @@
 - [is-central/is-central.github.io](https://github.com/is-central/is-central.github.io)
     - [主页](https://is-central.github.io/)
     - A compilation of guides and tips for Intergrated Strategies, a game mode of popular mobile game Arknights
+- [Kecierel/Arkroll](https://github.com/Kecierel/Arkroll)
+    - [主页](https://arkroll.pages.dev/)
+    - 明日方舟集成战略随机工具，随机选择分队、招募组合和六星干员
 
 ### 赛事计分器
 
