@@ -107,6 +107,9 @@
     - 将 Windows PC 日服（JP）或美服（EN）的游戏内文本映射为简体中文的汉化工具，内置离线词库，无需翻译 API
 - [LendYanTing/ArkCursor](https://github.com/LendYanTing/ArkCursor)
     - 替换明日方舟 PC 端光标的工具，隐藏游戏内光标并显示自定义光标
+- [LuMiSxh/Arknights-MacOS-Client](https://github.com/LuMiSxh/Arknights-MacOS-Client)
+    - [主页](https://lumisxh.github.io/Arknights-MacOS-Client/)
+    - 非官方 macOS 启动器，在 Apple 芯片 Mac 上通过内置 Wine 与 DXMT 安装并运行明日方舟 PC 客户端
 
 ### 森空岛相关
 
@@ -500,9 +503,6 @@
 - [isHarryh/Ark-Pets](https://github.com/isHarryh/Ark-Pets)
     - [主页](https://arkpets.harryh.cn)
     - Arknights Desktop Pets | 明日方舟桌宠
-- [JNGKZbird/lemuel-scamp](https://github.com/JNGKZbird/lemuel-scamp)
-    - Lemuel Scamp | 蕾缪乐·小淘气
-    - 明日方舟能天使 / 新约能天使双角色开源桌宠（Windows，Tauri v2）：Spine 3.8 运行时、自主生活与虚拟地球作息、WASD 互动；预览版，角色素材不随仓库分发。
 - [martinwang2002/Theresa-wiki](https://github.com/martinwang2002/Theresa-wiki)
     - [主页](https://theresa.wiki)
     - Theresa.wiki
@@ -566,6 +566,9 @@
     - 播放塞壬唱片音乐的安卓端播放器
 - [mohoney233/OranPage](https://github.com/mohoney233/OranPage)
     - 一款《明日方舟》安洁莉娜主题 + Windows XP 风格的浏览器新标签页扩展，将空白新标签页替换为可交互的经典桌面环境，包含拖拽图标、任务栏、文件管理器、音乐播放器和桌面宠物
+- [JNGKZbird/lemuel-scamp](https://github.com/JNGKZbird/lemuel-scamp)
+    - Lemuel Scamp | 蕾缪乐·小淘气
+    - 明日方舟能天使 / 新约能天使双角色开源桌宠（Windows，Tauri v2）：Spine 3.8 运行时、自主生活与虚拟地球作息、WASD 互动；预览版，角色素材不随仓库分发。
 
 ### 社区衍生
 
