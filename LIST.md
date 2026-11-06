@@ -613,6 +613,8 @@
 - [SBR-0451/arknights-pv-ranking](https://github.com/SBR-0451/arknights-pv-ranking)
     - [主页](https://pvduel.cn)
     - 非官方明日方舟 PV・EP 二选一淘汰赛与匿名公开排行榜
+- [ignorantichliebedich/arknights-nomad-city](https://github.com/ignorantichliebedich/arknights-nomad-city)
+    - 《明日方舟·游城拓荒：铸基者》非官方浏览器联机实现，支持 2–4 人棋桌、本体与企业扩展及人机
 
 ### 活动日程
 
