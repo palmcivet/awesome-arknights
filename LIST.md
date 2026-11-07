@@ -438,6 +438,9 @@
 - [BeiShanair/ArknightsFurniture](https://github.com/BeiShanair/ArknightsFurniture)
     - 明日方舟家具模组
     - [Bilibili 主页](https://space.bilibili.com/489671468)
+- [z8z6/ZineCraft](https://github.com/z8z6/ZineCraft)
+    - [主页](https://z8z6.github.io/ZineCraft/)
+    - 面向 Minecraft 1.21.1 / NeoForge 的《明日方舟》主题内容模组，包含泰拉维度、十九国群系与建筑、藏品和技能
 
 ### 杀戮尖塔 Slay the Spire
 
