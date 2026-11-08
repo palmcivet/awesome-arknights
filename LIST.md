@@ -28,8 +28,8 @@
     - [AI 相关](#ai-相关)
         - [Skills](#skills)
         - [DeepSeek Harness](#deepseek-harness)
+        - [Agent](#agent)
     - [杂项](#杂项)
-- [](#)
     - [社区衍生](#社区衍生)
         - [活动日程](#活动日程)
         - [图像识别](#图像识别)
@@ -510,6 +510,11 @@
 - [Respawn-ID/dsh-rhine-splash](https://github.com/Respawn-ID/dsh-rhine-splash)
     - DeepSeek Harness 桌面版与网页版的莱茵生命主题插件，参考特别映像「莱茵生命：访问」，含开屏动画、界面配色、品牌标志，以及通知、待办与费用面板等附加功能
 
+### Agent
+
+- [mansicer/MaaPilot](https://github.com/mansicer/MaaPilot)
+    - 一个会自己拿主意的明日方舟助手。由 Claude Code、Codex、OpenClaw 或 pi 中的 Agent 判断任务，底下用 MAA 操作游戏，完成定时日常、干员培养、材料合成与关卡
+
 ## 杂项
 
 - [isHarryh/Ark-Pets](https://github.com/isHarryh/Ark-Pets)
@@ -584,7 +589,7 @@
 - [SpectMercyRE/Arknights-pass-statistics](https://github.com/SpectMercyRE/Arknights-pass-statistics)
     - 明日方舟通行认证收集册
     - 离线管理《明日方舟》与《明日方舟：终末地》通行认证收藏的安卓应用，记录拥有状态、市场价与购入价，并统计收集进度与盈亏
-#
+
 ## 社区衍生
 
 - [Eletary/goo](https://github.com/Eletary/goo)
