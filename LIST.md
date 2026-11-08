@@ -300,6 +300,9 @@
     - [预览](https://rhine.lubeiluchen.cc/)
     - Rhine Lab archive interface built with TypeScript and Three.js
     - 《明日方舟》特别映像「莱茵生命：访问」终端界面的非官方三维复刻
+- [Funkierry/the-masses-travels](https://github.com/Funkierry/the-masses-travels)
+    - Interactive graphic archive built with TypeScript, Three.js and Vite
+    - 「众生行记」平面设计交互图录：图版实时绘制，可拖、可点、可拆，双击即可离线打开
 
 ### 字体
 
