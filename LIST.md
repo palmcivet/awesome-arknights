@@ -417,6 +417,9 @@
 - [Moonfair/ASP_Assistant](https://github.com/Moonfair/ASP_Assistant)
     - [主页](https://moonfair.github.io/ASP_Assistant/)
     - 基于 MaaFramework 的卫戍协议实时侧边辅助，运行于游戏窗口旁，提供干员与装备筛选、干员追踪和 Ban 位识别
+- [bingyunhe/hongxue-stronghold-companion](https://github.com/bingyunhe/hongxue-stronghold-companion)
+    - 鸿雪·卫戍助手：贴在游戏窗口旁的卫戍协议侧边辅助，提供干员与装备筛选、阵容规划与追踪、攻略导入及本局信息识别
+    - 基于 [Moonfair/ASP_Assistant](https://github.com/Moonfair/ASP_Assistant) 修改的独立衍生版本
 
 ## 游戏 Mod
 
