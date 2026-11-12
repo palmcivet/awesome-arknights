@@ -514,6 +514,8 @@
 
 - [mansicer/MaaPilot](https://github.com/mansicer/MaaPilot)
     - 一个会自己拿主意的明日方舟助手。由 Claude Code、Codex、OpenClaw 或 pi 中的 Agent 判断任务，底下用 MAA 操作游戏，完成定时日常、干员培养、材料合成与关卡
+- [TURLEing/Maa-Agent](https://github.com/TURLEing/Maa-Agent)
+    - 基于 maa-cli 与 MaaFramework 的明日方舟 Agent 工具集。让本地 Agent 观察游戏、维护干员档案、按档案寻找并执行作业，再核验战果
 
 ## 杂项
 
