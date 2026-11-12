@@ -414,6 +414,9 @@
     - 卫戍协议数据查询及特性联动
 - [sganggs/Stronghold-Protocol](https://github.com/sganggs/Stronghold-Protocol)
     - 《明日方舟》「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作
+- [Moonfair/ASP_Assistant](https://github.com/Moonfair/ASP_Assistant)
+    - [主页](https://moonfair.github.io/ASP_Assistant/)
+    - 基于 MaaFramework 的卫戍协议实时侧边辅助，运行于游戏窗口旁，提供干员与装备筛选、干员追踪和 Ban 位识别
 
 ## 游戏 Mod
 
