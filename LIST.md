@@ -427,6 +427,8 @@
     - [主页](https://sa.lubeiluchen.com)
     - 卫戍协议助手：贴在游戏窗口旁的 PC 侧栏，提供开局识别、阵容规划、盟约追踪和干员图鉴
     - 基于 [bingyunhe/hongxue-stronghold-companion](https://github.com/bingyunhe/hongxue-stronghold-companion) 改造并重做界面与交互，识别、数据和阵容规划沿用上游
+- [klst8/StrongholdProtocolAssistant](https://github.com/klst8/StrongholdProtocolAssistant)
+    - 卫戍选调助手：贴在游戏窗口旁的 Windows 桌面助手，自动识别对局并记录干员与装备，支持阵容码分享和按策略盟约推荐
 
 ## 游戏 Mod
 
