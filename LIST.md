@@ -423,6 +423,10 @@
 - [Yanstory/SPDatabase](https://github.com/Yanstory/SPDatabase)
     - [主页](https://static.prts.wiki/app/spdatabase/index.html)
     - 卫戍协议盟约与特质查询
+- [LBEILC/StrongholdAssistant](https://github.com/LBEILC/StrongholdAssistant)
+    - [主页](https://sa.lubeiluchen.com)
+    - 卫戍协议助手：贴在游戏窗口旁的 PC 侧栏，提供开局识别、阵容规划、盟约追踪和干员图鉴
+    - 基于 [bingyunhe/hongxue-stronghold-companion](https://github.com/bingyunhe/hongxue-stronghold-companion) 改造并重做界面与交互，识别、数据和阵容规划沿用上游
 
 ## 游戏 Mod
 
