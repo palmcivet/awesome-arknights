@@ -429,6 +429,8 @@
     - 基于 [bingyunhe/hongxue-stronghold-companion](https://github.com/bingyunhe/hongxue-stronghold-companion) 改造并重做界面与交互，识别、数据和阵容规划沿用上游
 - [klst8/StrongholdProtocolAssistant](https://github.com/klst8/StrongholdProtocolAssistant)
     - 卫戍选调助手：贴在游戏窗口旁的 Windows 桌面助手，自动识别对局并记录干员与装备，支持阵容码分享和按策略盟约推荐
+- [Stardust-minus/Stronghold-RL](https://github.com/Stardust-minus/Stronghold-RL)
+    - 同人复刻的 AI 座位强化学习环境与 PPO 训练器，含评估、部署选位和纯 JS 推理
 
 ## 游戏 Mod
 
