@@ -431,6 +431,9 @@
     - 卫戍选调助手：贴在游戏窗口旁的 Windows 桌面助手，自动识别对局并记录干员与装备，支持阵容码分享和按策略盟约推荐
 - [Stardust-minus/Stronghold-RL](https://github.com/Stardust-minus/Stronghold-RL)
     - 同人复刻的 AI 座位强化学习环境与 PPO 训练器，含评估、部署选位和纯 JS 推理
+- [dazauzai/ak-sweep](https://github.com/dazauzai/ak-sweep)
+    - [主页](https://dazauzai.github.io/ak-sweep/)
+    - 卫戍协议·规程网页配装器：实时盟约计算、截图识别本局禁用、按禁用排序 B 站攻略阵容（同一套阵容的多套思路可切换），附出怪规律、领袖、转职合成资料
 
 ## 游戏 Mod
 
